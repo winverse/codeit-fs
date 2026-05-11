@@ -1,32 +1,34 @@
 # codeit-fs
 
-Codeit fullstack course repositories collected for public sharing.
+코드잇 풀스택 과정에서 사용한 학습용 예제, 실습, 미션 코드를 모아둔 저장소입니다.
 
-## Contents
+## 폴더 구성
 
-- `codeit-fs-09`: Fullstack course repositories from the 09 cohort/material set.
-- `codeit-fs-11`: Fullstack course repositories from the 11 cohort/material set.
+- `codeit-fs-09`: 09번 학습 자료와 실습 프로젝트 모음
+- `codeit-fs-11`: 11번 학습 자료와 실습 프로젝트 모음
 
-## Public Repository Notes
+## 공개 저장소 정리 기준
 
-This repository is prepared for public release.
+이 저장소는 공개 저장소로 옮기기 전에 민감할 수 있는 로컬 전용 파일을 정리했습니다.
 
-Before publishing, sensitive local-only files were removed or replaced with key-only example files:
+정리한 항목은 다음과 같습니다.
 
-- Private key files such as `*.pem` were removed.
-- Real `.env` files were removed.
-- `Pulumi.dev.yaml` stack config files were removed.
-- `.DS_Store` files were removed.
-- Environment examples keep variable names only and leave values empty.
+- 실제 환경변수가 들어 있는 `.env` 파일 제거
+- 개인 키 파일인 `*.pem` 제거
+- Pulumi 로컬 스택 설정 파일인 `Pulumi.dev.yaml` 제거
+- macOS 로컬 메타데이터 파일인 `.DS_Store` 제거
+- 예시 환경변수 파일은 키 이름만 남기고 값은 비워둠
 
-For local development, copy an example file and fill in values on your machine:
+로컬에서 실행할 때는 필요한 예시 파일을 복사한 뒤, 각자 환경에 맞는 값을 채워서 사용하면 됩니다.
 
 ```bash
 cp .env.example .env
 ```
 
-Do not commit real secrets, service credentials, private keys, local database URLs, OAuth client secrets, or personal access tokens.
+실제 서비스 키, 비밀번호, 개인 키, 로컬 데이터베이스 URL, OAuth 클라이언트 시크릿, 개인 액세스 토큰은 커밋하지 않습니다.
 
-## Repository Structure Note
+## 저장소 구조 안내
 
-The folders under `codeit-fs-09` and `codeit-fs-11` were originally separate Git repositories. If this directory is published as one combined repository, make sure the intended source files are added to the new repository rather than accidentally publishing only nested Git repository links.
+`codeit-fs-09`와 `codeit-fs-11` 아래의 각 폴더는 원래 별도의 Git 저장소였던 프로젝트들입니다.
+
+현재 저장소는 공개 공유를 위해 두 묶음을 하나의 상위 저장소로 합친 형태입니다. 각 하위 프로젝트의 소스 파일은 포함되어 있으며, 중첩된 Git 저장소 정보는 제거되어 있습니다.
