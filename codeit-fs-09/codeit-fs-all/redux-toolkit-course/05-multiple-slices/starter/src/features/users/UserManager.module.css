@@ -1,0 +1,132 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.stats {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.form {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.form input {
+  flex: 1;
+  min-width: 200px;
+}
+
+.userList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.userCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+  background: white;
+}
+
+.userCard:hover {
+  border-color: #007bff;
+  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.1);
+}
+
+.userCard.selected {
+  border-color: #007bff;
+  background-color: #f8f9ff;
+  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.2);
+}
+
+.userInfo {
+  flex: 1;
+}
+
+.userName {
+  margin: 0 0 8px 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.1rem;
+}
+
+.userEmail {
+  margin: 0 0 5px 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.userDate {
+  margin: 0;
+  color: #999;
+  font-size: 0.8rem;
+}
+
+.userActions {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.userActions .button {
+  font-size: 12px;
+  padding: 6px 10px;
+}
+
+.statusButton {
+  background-color: #17a2b8;
+  color: white;
+}
+
+.statusButton:hover {
+  background-color: #138496;
+}
+
+.editButton {
+  background-color: #28a745;
+  color: white;
+}
+
+.editButton:hover {
+  background-color: #218838;
+}
+
+.deleteButton {
+  background-color: #dc3545;
+  color: white;
+}
+
+.deleteButton:hover {
+  background-color: #c82333;
+}
+
+.selectedUser {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #007bff;
+}
+
+.selectedUser h4 {
+  margin: 0 0 15px 0;
+  color: #007bff;
+}
+
+.userDetails p {
+  margin: 8px 0;
+  line-height: 1.4;
+}

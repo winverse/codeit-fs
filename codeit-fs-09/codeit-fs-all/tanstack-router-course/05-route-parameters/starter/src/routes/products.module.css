@@ -1,0 +1,40 @@
+.productGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.card {
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1.5rem;
+  background-color: #fff;
+}
+
+.card h3 {
+  margin: 0 0 1rem 0;
+  color: #212529;
+}
+
+.card p {
+  margin: 0.5rem 0;
+  color: #6c757d;
+}
+
+.price {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.linkBtn {
+  margin-top: 1rem;
+  display: inline-block;
+}
+
+.infoBox {
+  background-color: #e7f3ff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}

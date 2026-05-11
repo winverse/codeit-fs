@@ -1,0 +1,28 @@
+.header {
+  border: 2px solid var(--border-color);
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.actionsContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.toggleButton {
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 24px; /* 아이콘 크기를 위해 폰트 사이즈 조절 */
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-color);
+}

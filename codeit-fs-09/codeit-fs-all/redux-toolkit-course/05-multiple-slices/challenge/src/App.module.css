@@ -1,0 +1,237 @@
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 40px 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+}
+
+.header h1 {
+  margin: 0 0 10px 0;
+  font-size: 3rem;
+  font-weight: 800;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.header p {
+  margin: 0;
+  font-size: 1.3rem;
+  opacity: 0.95;
+  font-weight: 300;
+}
+
+.nav {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.navButton {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.7);
+  color: #4a5568;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+  backdrop-filter: blur(10px);
+}
+
+.navButton:hover {
+  background: rgba(255, 255, 255, 0.9);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.navButton.active {
+  background: linear-gradient(135deg, #4299e1, #3182ce);
+  color: white;
+  border-color: #2c5282;
+  box-shadow: 0 4px 15px rgba(66, 153, 225, 0.4);
+}
+
+.main {
+  min-height: 60vh;
+}
+
+.overview {
+  display: flex;
+  justify-content: center;
+}
+
+.welcomeCard {
+  max-width: 1000px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.welcomeCard h2 {
+  margin: 0 0 20px 0;
+  color: #2d3748;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.welcomeCard > p {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #4a5568;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  margin: 40px 0;
+}
+
+.feature {
+  text-align: center;
+  padding: 30px 20px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  transition: transform 0.3s ease;
+}
+
+.feature:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.featureIcon {
+  font-size: 3rem;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.feature h3 {
+  margin: 0 0 15px 0;
+  color: #2d3748;
+  font-size: 1.3rem;
+}
+
+.feature p {
+  margin: 0;
+  color: #666;
+  line-height: 1.6;
+}
+
+.techStack {
+  margin: 40px 0;
+  text-align: center;
+}
+
+.techStack h3 {
+  margin: 0 0 20px 0;
+  color: #2d3748;
+  font-size: 1.5rem;
+}
+
+.techList {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.highlights {
+  margin: 40px 0 0 0;
+}
+
+.highlights h3 {
+  margin: 0 0 20px 0;
+  color: #2d3748;
+  font-size: 1.5rem;
+}
+
+.highlights ul {
+  list-style: none;
+  padding: 0;
+}
+
+.highlights li {
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  line-height: 1.6;
+  color: #4a5568;
+}
+
+.highlights li:last-child {
+  border-bottom: none;
+}
+
+.highlights strong {
+  color: #2d3748;
+}
+
+.footer {
+  margin-top: 50px;
+  text-align: center;
+  padding: 30px;
+  background: linear-gradient(135deg, #f7fafc, #edf2f7);
+  border-radius: 16px;
+  color: #4a5568;
+  border-top: 3px solid #667eea;
+  line-height: 1.8;
+}
+
+@media (max-width: 768px) {
+  .header h1 {
+    font-size: 2.2rem;
+  }
+  
+  .header p {
+    font-size: 1.1rem;
+  }
+  
+  .nav {
+    padding: 15px;
+  }
+  
+  .navButton {
+    padding: 10px 16px;
+    font-size: 14px;
+  }
+  
+  .welcomeCard {
+    padding: 25px;
+  }
+  
+  .welcomeCard h2 {
+    font-size: 2rem;
+  }
+  
+  .welcomeCard > p {
+    font-size: 1.1rem;
+  }
+  
+  .features {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .feature {
+    padding: 20px 15px;
+  }
+  
+  .techList {
+    gap: 10px;
+  }
+}

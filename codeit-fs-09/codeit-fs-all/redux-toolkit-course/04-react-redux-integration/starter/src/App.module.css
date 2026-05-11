@@ -1,0 +1,107 @@
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+  padding: 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 12px;
+}
+
+.header h1 {
+  margin-bottom: 10px;
+  font-size: 2rem;
+}
+
+.header p {
+  opacity: 0.9;
+  font-size: 1.1rem;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.section {
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+}
+
+.section h2 {
+  margin-bottom: 20px;
+  color: #343a40;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.counter button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #007bff;
+  color: white;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.counter button:hover {
+  background: #0056b3;
+  transform: scale(1.1);
+}
+
+.counter span {
+  font-size: 1.2rem;
+  font-weight: bold;
+  min-width: 120px;
+}
+
+.note {
+  text-align: center;
+  color: #6c757d;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.todo {
+  background: #fff3cd;
+  border: 1px solid #ffeaa7;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.todo h3 {
+  margin-bottom: 15px;
+  color: #856404;
+}
+
+.todo ul {
+  list-style: none;
+  padding: 0;
+}
+
+.todo li {
+  padding: 8px 0;
+  border-bottom: 1px solid #ffeaa7;
+}
+
+.todo li:last-child {
+  border-bottom: none;
+}

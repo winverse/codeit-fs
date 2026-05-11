@@ -1,0 +1,233 @@
+.header {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.title {
+  font-size: 3rem;
+  margin: 0 0 1rem 0;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.subtitle {
+  margin: 0;
+  color: #666;
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+
+.card {
+  background-color: white;
+  border: 2px solid #f0f0f0;
+  border-radius: 16px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  color: inherit;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+.cardHeader {
+  padding: 2rem;
+  color: white;
+  text-align: center;
+}
+
+.cardIcon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.cardTitle {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.cardSubtitle {
+  margin: 0;
+  opacity: 0.9;
+  font-size: 1rem;
+}
+
+.cardContent {
+  padding: 2rem;
+}
+
+.cardDescription {
+  margin: 0 0 1.5rem 0;
+  color: #666;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.featuredItems {
+  margin-bottom: 2rem;
+}
+
+.featuredItems h4 {
+  margin: 0 0 1rem 0;
+  color: #333;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tag {
+  padding: 0.5rem 1rem;
+  background-color: #f8f9fa;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+}
+
+.btn {
+  flex: 1;
+  display: block;
+  padding: 1rem;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  text-align: center;
+  transition: all 0.2s;
+}
+
+.btnSecondary {
+  padding: 1rem;
+  background-color: transparent;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: all 0.2s;
+}
+
+.popularSearches {
+  padding: 3rem;
+  background-color: #f8f9fa;
+  border-radius: 16px;
+  margin-bottom: 2rem;
+}
+
+.popularSearches h2 {
+  font-size: 2rem;
+  margin: 0 0 1.5rem 0;
+  color: #333;
+  text-align: center;
+}
+
+.popularSearches p {
+  text-align: center;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.searchGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.searchLink {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background-color: white;
+  border: 2px solid #e9ecef;
+  border-radius: 12px;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.2s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.searchLink:hover {
+  border-color: #007acc;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 122, 204, 0.15);
+}
+
+.searchQuery {
+  font-weight: bold;
+}
+
+.searchCount {
+  font-size: 0.8rem;
+  color: #666;
+  background-color: #f8f9fa;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+}
+
+.cta {
+  text-align: center;
+  padding: 3rem;
+  background-color: white;
+  border-radius: 16px;
+  border: 2px solid #e9ecef;
+}
+
+.ctaIcon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.cta h2 {
+  font-size: 2rem;
+  margin: 0 0 1rem 0;
+  color: #333;
+}
+
+.cta p {
+  margin: 0 0 2rem 0;
+  color: #666;
+  font-size: 1.1rem;
+}
+
+.ctaBtn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: all 0.2s;
+}
+
+.ctaBtn:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}

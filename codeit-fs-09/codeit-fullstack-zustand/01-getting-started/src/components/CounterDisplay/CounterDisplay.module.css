@@ -1,0 +1,28 @@
+.display {
+  background: #f3f4f6;
+  border-radius: 1rem;
+  padding: 1.5rem 2rem;
+  margin: 1.5rem auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  text-align: center;
+  max-width: 340px;
+}
+
+.display p {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.display strong {
+  color: #2563eb;
+  font-size: 1.3rem;
+}
+
+.message {
+  margin-top: 0.7rem;
+  font-size: 1rem;
+  color: #64748b;
+  font-weight: 500;
+  min-height: 1.5em;
+  transition: color 0.2s;
+}

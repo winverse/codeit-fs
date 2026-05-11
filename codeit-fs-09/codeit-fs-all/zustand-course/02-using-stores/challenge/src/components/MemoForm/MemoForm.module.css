@@ -1,0 +1,128 @@
+.container {
+  composes: card from '@/styles/App.css';
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.titleInput,
+.contentInput {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid #e1e5e9;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.titleInput:focus,
+.contentInput:focus {
+  outline: none;
+  border-color: #ff6b6b;
+  box-shadow: 0 0 0 3px rgba(255, 107, 107, 0.1);
+}
+
+.contentInput {
+  resize: vertical;
+  min-height: 100px;
+}
+
+.categorySection {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.categoryLabel {
+  font-weight: 500;
+  color: #333;
+}
+
+.categoryOptions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.categoryOption {
+  cursor: pointer;
+}
+
+.categoryOption input[type='radio'] {
+  display: none;
+}
+
+.categoryButton {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  background: #f8f9fa;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.categoryOption input[type='radio']:checked + .categoryButton {
+  background: linear-gradient(135deg, #ff6b6b, #ee5a24);
+  color: white;
+  border-color: #ff6b6b;
+}
+
+.categoryButton:hover {
+  background: #e9ecef;
+}
+
+.categoryOption input[type='radio']:checked + .categoryButton:hover {
+  background: linear-gradient(135deg, #fa5252, #dc4c15);
+}
+
+.submitButton {
+  padding: 0.875rem 1.5rem;
+  background: linear-gradient(135deg, #ff6b6b, #ee5a24);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.submitButton:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 107, 107, 0.3);
+}
+
+.submitButton:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.submitButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 768px) {
+  .categoryOptions {
+    flex-direction: column;
+  }
+
+  .categoryButton {
+    justify-content: center;
+  }
+}

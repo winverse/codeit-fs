@@ -1,0 +1,68 @@
+.container {
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.title {
+  margin: 0 0 1rem 0;
+  color: #374151;
+  font-size: 1.2rem;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.item:last-child {
+  border-bottom: none;
+}
+
+.label {
+  font-weight: 500;
+  color: #374151;
+}
+
+.value {
+  color: #6b7280;
+  font-family: 'Fira Code', Consolas, monospace;
+}
+
+.status {
+  font-weight: 500;
+}
+
+.note {
+  background: #f0f9ff;
+  padding: 1rem;
+  border-radius: 6px;
+  border-left: 4px solid #0ea5e9;
+}
+
+.note h4 {
+  margin: 0 0 0.75rem 0;
+  color: #0c4a6e;
+  font-size: 1rem;
+}
+
+.note ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.note li {
+  margin-bottom: 0.25rem;
+  color: #075985;
+  font-size: 0.9rem;
+}

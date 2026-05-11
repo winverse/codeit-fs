@@ -1,0 +1,132 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #2563eb;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #64748b;
+  margin: 0;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.section {
+  background: #f8fafc;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border-left: 4px solid #3b82f6;
+}
+
+.section h2 {
+  color: #1e293b;
+  margin-bottom: 1rem;
+}
+
+.problems {
+  list-style: none;
+  padding: 0;
+}
+
+.problems li {
+  background: #fee2e2;
+  color: #991b1b;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  border-radius: 4px;
+  border-left: 3px solid #dc2626;
+}
+
+.benefits {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.benefit {
+  background: #ecfdf5;
+  padding: 1rem;
+  border-radius: 6px;
+  border-left: 3px solid #10b981;
+}
+
+.benefit h3 {
+  color: #065f46;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.benefit p {
+  color: #047857;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.codeComparison {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background: #f1f5f9;
+  border-radius: 6px;
+}
+
+.codeComparison h3 {
+  margin: 0 0 1rem 0;
+  color: #334155;
+}
+
+.comparison {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.before, .after {
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+.before {
+  background: #fee2e2;
+  border-left: 3px solid #dc2626;
+}
+
+.after {
+  background: #dcfce7;
+  border-left: 3px solid #16a34a;
+}
+
+.before h4 {
+  margin: 0 0 0.5rem 0;
+  color: #991b1b;
+  font-size: 0.9rem;
+}
+
+.after h4 {
+  margin: 0 0 0.5rem 0;
+  color: #166534;
+  font-size: 0.9rem;
+}
+
+.before code, .after code {
+  display: block;
+  font-family: 'Fira Code', Consolas, monospace;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}

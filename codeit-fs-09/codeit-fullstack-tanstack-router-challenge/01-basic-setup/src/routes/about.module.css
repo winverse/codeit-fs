@@ -1,0 +1,246 @@
+.page-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hero {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 3rem 2rem;
+  border-radius: 16px;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  opacity: 0.95;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.section {
+  margin-bottom: 4rem;
+}
+
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: #1e293b;
+  margin-bottom: 2rem;
+}
+
+.missionGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.missionCard {
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.missionCard .icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.missionCard h3 {
+  color: #1e293b;
+  margin-bottom: 1rem;
+}
+
+.missionCard p {
+  color: #64748b;
+  line-height: 1.6;
+}
+
+.missionCard.innovation {
+  background-color: #f0f9ff;
+  border: 2px solid #0ea5e9;
+}
+
+.missionCard.collaboration {
+  background-color: #f0fdf4;
+  border: 2px solid #22c55e;
+}
+
+.missionCard.education {
+  background-color: #fef3c7;
+  border: 2px solid #f59e0b;
+}
+
+.teamGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.teamCard {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  border: 2px solid #f1f5f9;
+  text-align: center;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.teamCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-color: #3b82f6;
+}
+
+.teamCard .avatar {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.teamCard h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #1e293b;
+  margin-bottom: 0.5rem;
+}
+
+.teamCard .role {
+  color: #3b82f6;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.teamCard .description {
+  color: #64748b;
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.skill {
+  background-color: #eff6ff;
+  color: #1d4ed8;
+  padding: 0.375rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.timeline {
+  background-color: #f8fafc;
+  padding: 3rem 2rem;
+  border-radius: 16px;
+  margin-bottom: 3rem;
+}
+
+.timelineGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.timelineCard {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 2px solid #e2e8f0;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.timelineCard:hover {
+  border-color: #3b82f6;
+  transform: scale(1.02);
+}
+
+.timelineCard .year {
+  background-color: #3b82f6;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.timelineCard h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1e293b;
+  margin-bottom: 0.5rem;
+}
+
+.timelineCard p {
+  color: #64748b;
+  line-height: 1.5;
+}
+
+.features {
+  background-color: #1e293b;
+  color: white;
+  padding: 3rem 2rem;
+  border-radius: 16px;
+}
+
+.featuresGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.featureCard {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.featureCard .icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.featureCard h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.featureCard p {
+  font-size: 0.9rem;
+  opacity: 0.9;
+  line-height: 1.4;
+}
+
+.ctaButton {
+  background-color: #3b82f6;
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: background-color 0.2s;
+  display: inline-block;
+}

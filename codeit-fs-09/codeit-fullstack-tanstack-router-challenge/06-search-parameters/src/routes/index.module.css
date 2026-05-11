@@ -1,0 +1,274 @@
+.hero {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 12px;
+  padding: 4rem 2rem;
+  margin-bottom: 3rem;
+  color: white;
+  text-align: center;
+}
+
+.heroTitle {
+  font-size: 3rem;
+  margin: 0 0 1rem 0;
+  font-weight: bold;
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  margin: 0 0 2rem 0;
+  opacity: 0.9;
+}
+
+.heroBtn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: white;
+  color: #667eea;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: transform 0.2s;
+}
+
+.heroBtn:hover {
+  transform: scale(1.05);
+}
+
+.section {
+  margin-bottom: 3rem;
+}
+
+.sectionTitle {
+  font-size: 2rem;
+  margin: 0 0 1.5rem 0;
+  color: #333;
+  text-align: center;
+}
+
+.categoryGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+}
+
+.categoryCard {
+  display: block;
+  padding: 2rem 1rem;
+  background-color: white;
+  border: 2px solid #f0f0f0;
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.categoryCard:hover {
+  border-color: #007acc;
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 122, 204, 0.15);
+}
+
+.categoryIcon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.categoryName {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.categoryCount {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.featuredHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.featuredHeader h2 {
+  font-size: 2rem;
+  margin: 0;
+  color: #333;
+}
+
+.viewAllLink {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.productGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.productCard {
+  background-color: white;
+  border: 1px solid #e9ecef;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.productCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.productImage {
+  height: 200px;
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  position: relative;
+}
+
+.discountBadge {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background-color: #dc3545;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.productInfo {
+  padding: 1.5rem;
+}
+
+.productBrand {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.productName {
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.stars {
+  display: flex;
+  color: #ffc107;
+}
+
+.reviewCount {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.priceInfo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.currentPrice {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #28a745;
+}
+
+.originalPrice {
+  font-size: 1.1rem;
+  color: #666;
+  text-decoration: line-through;
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+}
+
+.addToCartBtn {
+  flex: 1;
+  padding: 0.75rem;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.addToCartBtn:hover {
+  background-color: #0056b3;
+}
+
+.wishlistBtn {
+  padding: 0.75rem;
+  background-color: transparent;
+  color: #666;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.wishlistBtn:hover {
+  background-color: #f8f9fa;
+  color: #dc3545;
+}
+
+.cta {
+  margin-top: 4rem;
+  padding: 3rem;
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.cta h2 {
+  font-size: 2rem;
+  margin: 0 0 1rem 0;
+  color: #333;
+}
+
+.cta p {
+  font-size: 1.1rem;
+  color: #666;
+  margin: 0 0 2rem 0;
+}
+
+.ctaBtn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #28a745;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: background-color 0.2s;
+}
+
+.ctaBtn:hover {
+  background-color: #218838;
+}

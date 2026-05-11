@@ -1,0 +1,17 @@
+/* 기본 레이아웃만 제공 - Zustand 학습에 집중하세요! */
+
+.display {
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  margin: 1rem;
+}
+
+.message {
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border-radius: 4px;
+}

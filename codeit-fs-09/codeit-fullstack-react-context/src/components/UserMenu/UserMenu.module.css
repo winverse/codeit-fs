@@ -1,0 +1,8 @@
+.userMenu {
+  font-weight: bold;
+  color: var(--text-color);
+
+  &.dark {
+    font-size: 32px;
+  }
+}

@@ -1,0 +1,24 @@
+/* :root는 HTML의 최상위 요소를 의미합니다. */
+:root {
+  /* Light Theme (기본값) */
+  --background-color: #ffffff;
+  --text-color: #222222;
+  --border-color: #333333;
+  --button-bg-color: #222222;
+  --button-text-color: #ffffff;
+}
+
+/* body에 dark 클래스가 있을 때, 변수 값을 덮어씁니다. */
+body.dark {
+  --background-color: #222222;
+  --text-color: #ffffff;
+  --border-color: #eeeeee;
+  --button-bg-color: #ffffff;
+  --button-text-color: #222222;
+}
+
+/* 실제 적용될 스타일 */
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}

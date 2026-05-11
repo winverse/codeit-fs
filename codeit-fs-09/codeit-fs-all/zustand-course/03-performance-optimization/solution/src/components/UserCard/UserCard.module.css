@@ -1,0 +1,133 @@
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid #e1e5e9;
+  transition: all 0.2s ease;
+  height: fit-content;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.card.active {
+  border-color: #28a745;
+  background: linear-gradient(135deg, #ffffff, #f8fff9);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+  margin: 0;
+}
+
+.status {
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.statusActive {
+  background: #d4edda;
+  color: #155724;
+}
+
+.statusInactive {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+.info {
+  margin-bottom: 1.5rem;
+}
+
+.info p {
+  margin: 0 0 0.5rem 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.email {
+  font-weight: 500;
+  color: #667eea;
+}
+
+.department {
+  font-weight: 500;
+}
+
+.score {
+  font-weight: 600;
+  color: #28a745;
+}
+
+.joinedAt {
+  color: #999;
+  font-size: 0.8rem;
+}
+
+.actions {
+  padding-top: 1rem;
+  border-top: 1px solid #e1e5e9;
+}
+
+.toggleButton {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background: #667eea;
+  color: white;
+}
+
+.toggleButton:hover {
+  background: #5a67d8;
+  transform: translateY(-1px);
+}
+
+.toggleButton:active {
+  transform: translateY(0);
+}
+
+.card.active .toggleButton {
+  background: #dc3545;
+}
+
+.card.active .toggleButton:hover {
+  background: #c82333;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 768px) {
+  .card {
+    padding: 1rem;
+  }
+
+  .header {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
+  }
+
+  .status {
+    align-self: flex-start;
+  }
+}

@@ -1,0 +1,269 @@
+.inspector {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  max-height: 600px;
+  display: flex;
+  flex-direction: column;
+  font-family: monospace;
+  font-size: 0.9rem;
+  z-index: 1000;
+  color: var(--text-color);
+}
+
+.inspector .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+  border-bottom: 1px solid var(--border-color);
+  background-color: var(--header-bg);
+}
+
+.inspector .header h3 {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--primary-color);
+}
+
+.inspector .header .tabs {
+  display: flex;
+}
+
+.inspector .header .tab {
+  background: none;
+  border: none;
+  color: var(--text-color-light);
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  border-radius: 4px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.inspector .header .tab:hover {
+  background-color: var(--hover-bg);
+}
+
+.inspector .header .tab.active {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.inspector .header .closeButton {
+  background: none;
+  border: none;
+  color: var(--text-color-light);
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 50%;
+  transition: background-color 0.2s;
+}
+
+.inspector .header .closeButton:hover {
+  background-color: var(--hover-bg);
+}
+
+.inspector .content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 15px;
+}
+
+.stateView .stateTree {
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.stateNode {
+  margin-bottom: 5px;
+}
+
+.stateNode .nodeHeader {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 2px 0;
+}
+
+.stateNode .nodeKey {
+  font-weight: bold;
+  color: var(--primary-color);
+  margin-right: 5px;
+}
+
+.stateNode .objectValue,
+.stateNode .functionValue {
+  color: var(--text-color-light);
+}
+
+.stateNode .primitiveValue {
+  color: var(--text-color);
+}
+
+.stateNode .primitiveValue.string {
+  color: #a31515; /* Red for strings */
+}
+
+.stateNode .primitiveValue.number {
+  color: #008080; /* Teal for numbers */
+}
+
+.stateNode .primitiveValue.boolean {
+  color: #0000ff; /* Blue for booleans */
+}
+
+.stateNode .nodeChildren {
+  padding-left: 20px;
+  border-left: 1px dashed var(--border-color);
+  margin-left: 5px;
+}
+
+.historyView .historyList {
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.historyView .historyItem {
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--border-color);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.historyView .historyItem:last-child {
+  border-bottom: none;
+}
+
+.historyView .historyItem:hover {
+  background-color: var(--hover-bg);
+}
+
+.historyView .historyItem.selected {
+  background-color: var(--primary-color-light);
+  color: white;
+}
+
+.historyView .historyTime {
+  font-size: 0.8rem;
+  color: var(--text-color-light);
+}
+
+.historyView .historyItem.selected .historyTime {
+  color: white;
+}
+
+.historyView .historyChanges {
+  font-size: 0.85rem;
+}
+
+.historyView .historyDetails {
+  margin-top: 15px;
+  background-color: var(--code-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.historyView .historyDetails h4 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
+
+.historyView .historyDetails pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.performanceView .statGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.performanceView .statItem {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  padding: 10px;
+  text-align: center;
+}
+
+.performanceView .statLabel {
+  font-size: 0.8rem;
+  color: var(--text-color-light);
+  margin-bottom: 5px;
+}
+
+.performanceView .statValue {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+.performanceView .performanceChart {
+  margin-top: 20px;
+}
+
+.performanceView .performanceChart h4 {
+  margin-top: 0;
+  color: var(--primary-color);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.performanceView .chartContainer {
+  display: flex;
+  align-items: flex-end;
+  height: 120px;
+  border-bottom: 1px solid var(--border-color);
+  border-left: 1px solid var(--border-color);
+  padding-left: 5px;
+  gap: 2px;
+}
+
+.performanceView .chartBar {
+  width: 8px;
+  background-color: var(--primary-color-light);
+  transition: height 0.1s ease-out;
+}
+
+.performanceView .chartBar.slow {
+  background-color: #ff6347; /* Tomato red for slow updates */
+}
+
+.inspector .trigger {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: 1000;
+}
+
+.inspector .openButton {
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.2s;
+}
+
+.inspector .openButton:hover {
+  background-color: var(--primary-color-dark);
+}

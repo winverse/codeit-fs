@@ -1,0 +1,247 @@
+.container {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.counterSection {
+  border-right: 2px solid #f3f4f6;
+  padding-right: 2rem;
+}
+
+.historySection {
+  padding-left: 1rem;
+}
+
+.title, .historyTitle {
+  margin: 0 0 1.5rem 0;
+  color: #374151;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.display {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.count {
+  font-size: 4rem;
+  font-weight: bold;
+  color: #3b82f6;
+  display: inline-block;
+  min-width: 120px;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.button {
+  background: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 50px;
+}
+
+.button:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
+}
+
+.amountButton {
+  background: #059669;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.amountButton:hover {
+  background: #047857;
+  transform: translateY(-1px);
+}
+
+.resetSection {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.resetButton {
+  background: #dc2626;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.resetButton:hover {
+  background: #b91c1c;
+  transform: translateY(-1px);
+}
+
+.status {
+  padding: 1rem;
+  background: #f3f4f6;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.status p {
+  margin: 0.25rem 0;
+  color: #374151;
+}
+
+.noHistory {
+  color: #6b7280;
+  text-align: center;
+  font-style: italic;
+  margin: 2rem 0;
+}
+
+.historyList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.historyItem {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+
+.actionInfo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.actionName {
+  background: #3b82f6;
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 0.8rem;
+}
+
+.actionAmount {
+  color: #059669;
+  font-weight: 600;
+}
+
+.valueChange {
+  color: #374151;
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.timestamp {
+  color: #6b7280;
+  font-size: 0.8rem;
+}
+
+.undoButton {
+  background: #f59e0b;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  margin-left: 0.5rem;
+}
+
+.undoButton:hover {
+  background: #d97706;
+}
+
+.undoButton:active {
+  transform: translateY(1px);
+}
+
+.clearButton {
+  background: #6b7280;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  margin-left: 0.5rem;
+}
+
+.clearButton:hover {
+  background: #4b5563;
+}
+
+.clearButton:active {
+  transform: translateY(1px);
+}
+
+.extraInfo {
+  color: #6b7280;
+  font-size: 0.75rem;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .counterSection {
+    border-right: none;
+    border-bottom: 2px solid #f3f4f6;
+    padding-right: 0;
+    padding-bottom: 1.5rem;
+  }
+  
+  .historySection {
+    padding-left: 0;
+  }
+  
+  .resetSection {
+    flex-wrap: wrap;
+  }
+  
+  .undoButton,
+  .clearButton {
+    margin-left: 0;
+    margin-top: 0.5rem;
+  }
+}

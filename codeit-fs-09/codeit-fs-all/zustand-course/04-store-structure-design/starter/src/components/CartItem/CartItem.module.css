@@ -1,0 +1,118 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.item:last-child {
+  border-bottom: none;
+}
+
+.productInfo {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.image {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-right: 12px;
+  background-color: #f8f9fa;
+}
+
+.details {
+  flex: 1;
+}
+
+.name {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0 0 4px 0;
+  color: #1a1a1a;
+  line-height: 1.3;
+}
+
+.price {
+  font-size: 12px;
+  color: #666;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+}
+
+.quantityControls {
+  display: flex;
+  align-items: center;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.quantityButton {
+  width: 28px;
+  height: 28px;
+  border: none;
+  background: #f8f9fa;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 600;
+  color: #666;
+  transition: all 0.2s ease;
+}
+
+.quantityButton:hover {
+  background-color: #e9ecef;
+  color: #333;
+}
+
+.quantityButton:active {
+  transform: scale(0.95);
+}
+
+.quantity {
+  padding: 0 12px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+  min-width: 40px;
+  text-align: center;
+  background: white;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.total {
+  font-size: 14px;
+  font-weight: 700;
+  color: #007bff;
+}
+
+.removeButton {
+  background: none;
+  border: 1px solid #dc3545;
+  color: #dc3545;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.removeButton:hover {
+  background-color: #dc3545;
+  color: white;
+}

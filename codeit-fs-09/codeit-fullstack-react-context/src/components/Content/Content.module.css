@@ -1,0 +1,6 @@
+.content {
+  border: 2px solid var(--border-color);
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+}

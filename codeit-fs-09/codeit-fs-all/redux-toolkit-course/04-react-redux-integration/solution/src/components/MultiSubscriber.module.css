@@ -1,0 +1,28 @@
+.container {
+  padding: 1.5rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  margin: 1rem 0;
+  transition: all 0.3s ease;
+  text-align: left;
+}
+
+.container.light {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.container.dark {
+  background-color: #2d2d2d;
+  color: #ffffff;
+  border-color: #555;
+}
+
+.section {
+  margin-bottom: 1rem;
+}
+
+.section h4 {
+  margin-bottom: 0.5rem;
+  color: #007bff;
+}

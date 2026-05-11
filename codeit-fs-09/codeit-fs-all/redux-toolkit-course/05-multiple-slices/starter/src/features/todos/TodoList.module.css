@@ -1,0 +1,73 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form {
+  display: flex;
+  gap: 8px;
+}
+
+.form input {
+  flex: 1;
+}
+
+.filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.filters .button.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.todoItem {
+  align-items: flex-start;
+  padding: 15px 10px;
+}
+
+.todoContent {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+}
+
+.checkbox {
+  margin: 0;
+}
+
+.todoText {
+  flex: 1;
+  line-height: 1.4;
+}
+
+.todoText.completed {
+  text-decoration: line-through;
+  color: #6c757d;
+  opacity: 0.7;
+}
+
+.deleteButton {
+  background-color: #dc3545;
+  color: white;
+  font-size: 12px;
+  padding: 4px 8px;
+}
+
+.deleteButton:hover {
+  background-color: #c82333;
+}
+
+.clearButton {
+  background-color: #ffc107;
+  color: #212529;
+  align-self: flex-end;
+}
+
+.clearButton:hover {
+  background-color: #e0a800;
+}

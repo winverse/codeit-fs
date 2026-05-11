@@ -1,0 +1,14 @@
+/* Basic App styles */
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.header h1 {
+  color: #333;
+}
+
+.main {
+  margin-top: 20px;
+}

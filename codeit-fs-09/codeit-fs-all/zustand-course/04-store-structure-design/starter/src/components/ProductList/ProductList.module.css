@@ -1,0 +1,43 @@
+.container {
+  padding: 20px;
+}
+
+.categoryFilter {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.categoryFilter button {
+  padding: 8px 16px;
+  border: 2px solid #ddd;
+  background: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.categoryFilter button:hover {
+  background: #f0f0f0;
+}
+
+.categoryFilter button.active {
+  background: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+.productGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.emptyState {
+  text-align: center;
+  padding: 40px;
+  color: #666;
+  background: #f9f9f9;
+  border-radius: 8px;
+}

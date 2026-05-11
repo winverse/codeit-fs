@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# build outputs
+dist/
+build/
+.next/
+out/
+coverage/
+.vite/
+.turbo/
+
+# local env and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+Pulumi.*.yaml
+!Pulumi.*.example.yaml
+
+# local/editor files
+.DS_Store
+.idea/
+.vscode/
+*.log

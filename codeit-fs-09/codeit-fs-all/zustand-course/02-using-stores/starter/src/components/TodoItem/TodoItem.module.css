@@ -1,0 +1,171 @@
+.item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.item:hover {
+  background: #e9ecef;
+  border-color: #dee2e6;
+}
+
+.item.completed {
+  opacity: 0.7;
+  background: #e8f5e8;
+}
+
+.item.completed:hover {
+  background: #d4edda;
+}
+
+/* 체크박스 스타일링 */
+.checkboxWrapper {
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-top: 0.1rem;
+}
+
+.checkbox {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.checkmark {
+  width: 20px;
+  height: 20px;
+  border: 2px solid #dee2e6;
+  border-radius: 4px;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.checkbox:checked + .checkmark {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border-color: #667eea;
+}
+
+.checkbox:checked + .checkmark::after {
+  content: '✓';
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.checkboxWrapper:hover .checkmark {
+  border-color: #667eea;
+}
+
+/* 컨텐츠 영역 */
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.text {
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #333;
+  cursor: pointer;
+  word-break: break-word;
+  transition: all 0.2s ease;
+}
+
+.text:hover {
+  color: #667eea;
+}
+
+.completed .text {
+  text-decoration: line-through;
+  color: #6c757d;
+}
+
+.editInput {
+  width: 100%;
+  padding: 0.5rem;
+  border: 2px solid #667eea;
+  border-radius: 4px;
+  font-size: 1rem;
+  background: white;
+  outline: none;
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: #6c757d;
+}
+
+.date {
+  font-weight: 500;
+}
+
+/* 액션 버튼들 */
+.actions {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+  margin-top: 0.1rem;
+}
+
+.editButton,
+.deleteButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  transition: all 0.2s ease;
+  opacity: 0.7;
+}
+
+.editButton:hover,
+.deleteButton:hover {
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.05);
+  transform: scale(1.1);
+}
+
+.deleteButton:hover {
+  background: rgba(255, 107, 107, 0.1);
+}
+
+/* 반응형 디자인 */
+@media (max-width: 480px) {
+  .item {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .checkboxWrapper {
+    align-self: flex-start;
+  }
+
+  .actions {
+    align-self: flex-end;
+    gap: 0.75rem;
+  }
+
+  .editButton,
+  .deleteButton {
+    font-size: 1.2rem;
+    padding: 0.5rem;
+  }
+}
