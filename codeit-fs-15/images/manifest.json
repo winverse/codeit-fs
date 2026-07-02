@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-07-02T09:28:53.452Z",
+  "generated_at": "2026-07-02T10:06:07.570Z",
   "scope": "codeit-fs-15 course images 01-21",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1207,
+  "count": 1237,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -8454,6 +8454,216 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/4cf71a11bc5f-image.png",
       "bytes": 109433,
       "sha1": "097025acbb7154c988da15d20cc804572a72bf75"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/0befb7c9485f-image.png",
+      "image_path": "codeit-fs-15/images/06/0befb7c9485f-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/0befb7c9485f-image.png",
+      "bytes": 199513,
+      "sha1": "1dcda7dd654cea93bc95720b60ec0ae26f4315d5"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/0cb23836639f-image.png",
+      "image_path": "codeit-fs-15/images/06/0cb23836639f-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/0cb23836639f-image.png",
+      "bytes": 58499,
+      "sha1": "cd43e932f04edaf0c898618ede83154bb844ff0e"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/21c136fd7d5e-image.png",
+      "image_path": "codeit-fs-15/images/06/21c136fd7d5e-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/21c136fd7d5e-image.png",
+      "bytes": 151929,
+      "sha1": "f033acbb37ad57150f73647aa42c150756a3a26b"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/23fef1cbbf43-image.png",
+      "image_path": "codeit-fs-15/images/06/23fef1cbbf43-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/23fef1cbbf43-image.png",
+      "bytes": 225419,
+      "sha1": "28a6e1d4d62ae2476639a23c7684337954bb6247"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/36c72b6d4d7e-image.png",
+      "image_path": "codeit-fs-15/images/06/36c72b6d4d7e-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/36c72b6d4d7e-image.png",
+      "bytes": 168004,
+      "sha1": "82040b2c5170b4d6d72372dc3e08e7c3d66b6634"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/371d521fe6ea-image.png",
+      "image_path": "codeit-fs-15/images/06/371d521fe6ea-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/371d521fe6ea-image.png",
+      "bytes": 40724,
+      "sha1": "c3de3749d3089829ecbd03290570c1b6521af50a"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/4653ec969a24-image.png",
+      "image_path": "codeit-fs-15/images/06/4653ec969a24-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/4653ec969a24-image.png",
+      "bytes": 214245,
+      "sha1": "03f7c84e5ab868c68c2906c3cc440b22d7c9bcd8"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/478c34d147e6-image.png",
+      "image_path": "codeit-fs-15/images/06/478c34d147e6-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/478c34d147e6-image.png",
+      "bytes": 181647,
+      "sha1": "35f487552c903683757389495fbe304be572b9e9"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/546d17748c0a-image.png",
+      "image_path": "codeit-fs-15/images/06/546d17748c0a-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/546d17748c0a-image.png",
+      "bytes": 196099,
+      "sha1": "a6a9e0205695a22ff98e5e8a649bbe6ce24518ff"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/56fdb2d01f8e-image.png",
+      "image_path": "codeit-fs-15/images/06/56fdb2d01f8e-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/56fdb2d01f8e-image.png",
+      "bytes": 196271,
+      "sha1": "e0c2db7e04bf3e021eaf766926e46f907b2e481b"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/610b09cd4739-image.png",
+      "image_path": "codeit-fs-15/images/06/610b09cd4739-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/610b09cd4739-image.png",
+      "bytes": 152689,
+      "sha1": "2a952d338740612a878025b50ea0eec29209a142"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/6b89bc4f027d-image.png",
+      "image_path": "codeit-fs-15/images/06/6b89bc4f027d-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/6b89bc4f027d-image.png",
+      "bytes": 219876,
+      "sha1": "d039c975ac3db219e6e6e0bb1500b72887ba1c58"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/749ae9bdc421-image.png",
+      "image_path": "codeit-fs-15/images/06/749ae9bdc421-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/749ae9bdc421-image.png",
+      "bytes": 166627,
+      "sha1": "4337f4517a92487b2f1d079603c95f3e5de87655"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/8129e9e7b510-image.png",
+      "image_path": "codeit-fs-15/images/06/8129e9e7b510-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/8129e9e7b510-image.png",
+      "bytes": 159991,
+      "sha1": "dd24b56c72476d76e255a76c35c4222a1cc3ef20"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/8be421fed69c-image.png",
+      "image_path": "codeit-fs-15/images/06/8be421fed69c-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/8be421fed69c-image.png",
+      "bytes": 89062,
+      "sha1": "364630b6aed6e2ae516519ce3c013777d010fe99"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/959c02f5d0fd-image.png",
+      "image_path": "codeit-fs-15/images/06/959c02f5d0fd-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/959c02f5d0fd-image.png",
+      "bytes": 185665,
+      "sha1": "bafec191ba152e6da7e30be63154e72b1d0f19ed"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/9c8f95e0da02-image.png",
+      "image_path": "codeit-fs-15/images/06/9c8f95e0da02-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/9c8f95e0da02-image.png",
+      "bytes": 150822,
+      "sha1": "782169cd46cd2bb05b420d0a4ff3e83503cd4c2d"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/a00bbfef1373-image.png",
+      "image_path": "codeit-fs-15/images/06/a00bbfef1373-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/a00bbfef1373-image.png",
+      "bytes": 196982,
+      "sha1": "4defe562024454718a096d60e2b63af54a2e2db1"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/a1b69bdff202-image.png",
+      "image_path": "codeit-fs-15/images/06/a1b69bdff202-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/a1b69bdff202-image.png",
+      "bytes": 76043,
+      "sha1": "9753790028ce9a0e2022137250062775c11477d9"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/b0074c36f709-image.png",
+      "image_path": "codeit-fs-15/images/06/b0074c36f709-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/b0074c36f709-image.png",
+      "bytes": 184205,
+      "sha1": "5c971d3817c8463cda4357438fe5cfa44e6c3a22"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/c37e2d2ca6c9-image.png",
+      "image_path": "codeit-fs-15/images/06/c37e2d2ca6c9-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/c37e2d2ca6c9-image.png",
+      "bytes": 45154,
+      "sha1": "5f28b74373e181e5c6554a88b025c1626ed413eb"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/cda01f5daa99-image.png",
+      "image_path": "codeit-fs-15/images/06/cda01f5daa99-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/cda01f5daa99-image.png",
+      "bytes": 202903,
+      "sha1": "cdd6b8af4c16f1b07a4985e9c851b2a502cfbaa1"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/dabe260d6c34-image.png",
+      "image_path": "codeit-fs-15/images/06/dabe260d6c34-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/dabe260d6c34-image.png",
+      "bytes": 42425,
+      "sha1": "c89fdb454fe60329656f8642b5b0daac3e53e70d"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/dd067f339d5c-image.png",
+      "image_path": "codeit-fs-15/images/06/dd067f339d5c-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/dd067f339d5c-image.png",
+      "bytes": 169803,
+      "sha1": "e5ffe9d01738ca4d444daf78734b95b8f4621da1"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/dd698144b0a7-image.png",
+      "image_path": "codeit-fs-15/images/06/dd698144b0a7-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/dd698144b0a7-image.png",
+      "bytes": 88281,
+      "sha1": "3c5da3df4cc77dfaa58e037a12492dae8081e022"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/e2eb46ae9301-image.png",
+      "image_path": "codeit-fs-15/images/06/e2eb46ae9301-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/e2eb46ae9301-image.png",
+      "bytes": 96182,
+      "sha1": "b651b11045432448a5af5dc13d0ddd26f909df3b"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/e99a73445a72-image.png",
+      "image_path": "codeit-fs-15/images/06/e99a73445a72-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/e99a73445a72-image.png",
+      "bytes": 45506,
+      "sha1": "0ddae35590b20496040d4076c3809bd4ca1d5562"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/ef3a724d5e51-image.png",
+      "image_path": "codeit-fs-15/images/06/ef3a724d5e51-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/ef3a724d5e51-image.png",
+      "bytes": 32134,
+      "sha1": "48a279b2d7d9f800afc23f0f369d4edff2d8453b"
+    },
+    {
+      "source_path": "notion/06. 실용적 유닉스 커맨드/migrated/f89e97221f84-image.png",
+      "image_path": "codeit-fs-15/images/06/f89e97221f84-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/06/f89e97221f84-image.png",
+      "bytes": 174339,
+      "sha1": "14bf173fc77e62a8ffb15f0d1a592c4619248f6e"
+    },
+    {
+      "source_path": "notion/07. Git - (12시간)/migrated/790e80ad99f5-스크린샷_2026-06-26_16.15.09.png",
+      "image_path": "codeit-fs-15/images/07/790e80ad99f5-스크린샷_2026-06-26_16.15.09.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/07/790e80ad99f5-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-26_16.15.09.png",
+      "bytes": 786053,
+      "sha1": "a283132bbb84a0afc2fbfac98530b14eeea9309a"
     }
   ]
 }
