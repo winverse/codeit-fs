@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-07-02T09:09:09.153Z",
+  "generated_at": "2026-07-02T09:28:53.452Z",
   "scope": "codeit-fs-15 course images 01-21",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1180,
+  "count": 1207,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -8265,6 +8265,195 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/0a78364fbdf9-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.08.40.png",
       "bytes": 206259,
       "sha1": "c106c61695115fa444db197cd95335664694156c"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. HTML이란?/3b61538d884d-image.png",
+      "image_path": "codeit-fs-15/images/04/3b61538d884d-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/3b61538d884d-image.png",
+      "bytes": 258710,
+      "sha1": "9c117ecd366337f3fbc49e0b10260db7e540d7fe"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. HTML이란?/b217be68d3d6-image.png",
+      "image_path": "codeit-fs-15/images/04/b217be68d3d6-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/b217be68d3d6-image.png",
+      "bytes": 298383,
+      "sha1": "2ec0baa6a840a24d7ea38f4630e2d61eb86053be"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. HTML이란?/9deafd829a9e-image.png",
+      "image_path": "codeit-fs-15/images/04/9deafd829a9e-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/9deafd829a9e-image.png",
+      "bytes": 88907,
+      "sha1": "f67361016e31f7914ec12fbb8f87afad60f400a6"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. HTML이란?/75f559b47213-image.png",
+      "image_path": "codeit-fs-15/images/04/75f559b47213-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/75f559b47213-image.png",
+      "bytes": 99010,
+      "sha1": "68b71cd71178a501b48f626a36ffa082b4336965"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. HTML이란?/a437a137dbff-image.png",
+      "image_path": "codeit-fs-15/images/04/a437a137dbff-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/a437a137dbff-image.png",
+      "bytes": 65951,
+      "sha1": "1fff6fe9c5ff54f045719c1b3cf0310201b900e3"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. HTML이란?/475b70cada29-image.png",
+      "image_path": "codeit-fs-15/images/04/475b70cada29-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/475b70cada29-image.png",
+      "bytes": 105942,
+      "sha1": "895b523aa5955cd927efb7e0368b731171080e8b"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. HTML이란?/036ecf2769e2-image.png",
+      "image_path": "codeit-fs-15/images/04/036ecf2769e2-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/036ecf2769e2-image.png",
+      "bytes": 78066,
+      "sha1": "f1bd2cebb85197758bcb0fad680a3e9d2139f82a"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. HTML이란?/4aefee1ef914-image.png",
+      "image_path": "codeit-fs-15/images/04/4aefee1ef914-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/4aefee1ef914-image.png",
+      "bytes": 68593,
+      "sha1": "9205d0988576dc0936f757ef4be05e1621930387"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. #스크립트 HTML이란?/85b686359c60-image.png",
+      "image_path": "codeit-fs-15/images/04/85b686359c60-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/85b686359c60-image.png",
+      "bytes": 297313,
+      "sha1": "6a870b2e44ee3aea226fef52bd9462ef9c58f5d7"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. #스크립트 HTML이란?/4c5b2de104db-image.png",
+      "image_path": "codeit-fs-15/images/04/4c5b2de104db-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/4c5b2de104db-image.png",
+      "bytes": 88879,
+      "sha1": "393f710c13be2bb72c4299b4ddac39a9d1c4aef3"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. #스크립트 HTML이란?/89b64a176a50-image.png",
+      "image_path": "codeit-fs-15/images/04/89b64a176a50-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/89b64a176a50-image.png",
+      "bytes": 97639,
+      "sha1": "a2a743d84bbe8c8a2c1d155fc3039b6bdab63148"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. #스크립트 HTML이란?/deabf44e183a-image.png",
+      "image_path": "codeit-fs-15/images/04/deabf44e183a-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/deabf44e183a-image.png",
+      "bytes": 68568,
+      "sha1": "7e9872548a2eb9432e495c01d2df15be967651ce"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. #스크립트 HTML이란?/423f64cc58ad-image.png",
+      "image_path": "codeit-fs-15/images/04/423f64cc58ad-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/423f64cc58ad-image.png",
+      "bytes": 107375,
+      "sha1": "e2ae7c8b5e2978ad7724d0b91f8431287f422197"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. #스크립트 HTML이란?/9a6c0d1146da-image.png",
+      "image_path": "codeit-fs-15/images/04/9a6c0d1146da-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/9a6c0d1146da-image.png",
+      "bytes": 77402,
+      "sha1": "6ca67b76c5ff86e09361541c13c50ce4f667360f"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. #스크립트 HTML이란?/de770f2a8e60-image.png",
+      "image_path": "codeit-fs-15/images/04/de770f2a8e60-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/de770f2a8e60-image.png",
+      "bytes": 66899,
+      "sha1": "7abd2b89b2c251c23fecda9ec939f4b913be627a"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/5af43f187777-image.png",
+      "image_path": "codeit-fs-15/images/04/5af43f187777-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/5af43f187777-image.png",
+      "bytes": 105422,
+      "sha1": "c4be4eec784c7bd10430f832a95fded2f455d90b"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/7f676ec46ee6-image.png",
+      "image_path": "codeit-fs-15/images/04/7f676ec46ee6-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/7f676ec46ee6-image.png",
+      "bytes": 150262,
+      "sha1": "ea00ef6415b5dab56cf0181015d3f06960efa90b"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/6dfd05e97a64-image.png",
+      "image_path": "codeit-fs-15/images/04/6dfd05e97a64-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/6dfd05e97a64-image.png",
+      "bytes": 83812,
+      "sha1": "9b74503d4510e313f601544ddb727af4c2bcbe51"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/1e3267c617ff-image.png",
+      "image_path": "codeit-fs-15/images/04/1e3267c617ff-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/1e3267c617ff-image.png",
+      "bytes": 113377,
+      "sha1": "307009c22a0a3a360a20e83de553adde9e36681e"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/36a637734289-image.png",
+      "image_path": "codeit-fs-15/images/04/36a637734289-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/36a637734289-image.png",
+      "bytes": 135647,
+      "sha1": "566d77d224bf0f413b33d790724a6f32eb182e2c"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/808f156cddb2-image.png",
+      "image_path": "codeit-fs-15/images/04/808f156cddb2-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/808f156cddb2-image.png",
+      "bytes": 142469,
+      "sha1": "2a317381ad98499bc7d382aeccaacafa974d84bf"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/3c07d9addac2-image.png",
+      "image_path": "codeit-fs-15/images/04/3c07d9addac2-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/3c07d9addac2-image.png",
+      "bytes": 118393,
+      "sha1": "8a76570fee062ba71a008d76ae2b0eb36c7a75db"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/5bce43b4f380-image.png",
+      "image_path": "codeit-fs-15/images/04/5bce43b4f380-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/5bce43b4f380-image.png",
+      "bytes": 123549,
+      "sha1": "f528526fda79ae923b7daa477d9d6ea21e6fe215"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/d511f8c03730-image.png",
+      "image_path": "codeit-fs-15/images/04/d511f8c03730-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/d511f8c03730-image.png",
+      "bytes": 122461,
+      "sha1": "1bb1c18cb40b453762cf15e591043117853db439"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/d3ca468c6cec-image.png",
+      "image_path": "codeit-fs-15/images/04/d3ca468c6cec-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/d3ca468c6cec-image.png",
+      "bytes": 134277,
+      "sha1": "05be596d0ff57b082f3a94d2daac016aaa21944e"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/577889df28df-image.png",
+      "image_path": "codeit-fs-15/images/04/577889df28df-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/577889df28df-image.png",
+      "bytes": 120021,
+      "sha1": "8219d5c93378c4a9e3a5d85b41ecf2174c586687"
+    },
+    {
+      "source_path": "notion/04.HTML 핵심 개념/01. 폼이란?/4cf71a11bc5f-image.png",
+      "image_path": "codeit-fs-15/images/04/4cf71a11bc5f-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/04/4cf71a11bc5f-image.png",
+      "bytes": 109433,
+      "sha1": "097025acbb7154c988da15d20cc804572a72bf75"
     }
   ]
 }
