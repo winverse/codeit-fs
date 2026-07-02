@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-07-02T07:57:21.103Z",
+  "generated_at": "2026-07-02T09:09:09.153Z",
   "scope": "codeit-fs-15 course images 01-21",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1154,
+  "count": 1180,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -8083,6 +8083,188 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/2f6f5868c809-_2026-01-12_09.32.55.png",
       "bytes": 393377,
       "sha1": "6ec6960d9abbd0980f48f2b27fdbb1540dc9f155"
+    },
+    {
+      "source_path": "notion/02.웹 퍼블리싱 시작하기/03. VSCode 확장 프로그램 / Live Server / HTML/CSS/JS 실습 시 실시간 미리보기 제공 (저장마다 브라우저 자동 새로고침)/a90cba3da371-스크린샷_2026-06-04_16.20.17.png",
+      "image_path": "codeit-fs-15/images/02/a90cba3da371-스크린샷_2026-06-04_16.20.17.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/02/a90cba3da371-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-04_16.20.17.png",
+      "bytes": 152780,
+      "sha1": "993372f0689932314b04f77c33e830d951567a2b"
+    },
+    {
+      "source_path": "notion/02.웹 퍼블리싱 시작하기/04. VSCode 폰트 설정하기/ad77a80c39f6-스크린샷_2026-06-04_16.31.37.png",
+      "image_path": "codeit-fs-15/images/02/ad77a80c39f6-스크린샷_2026-06-04_16.31.37.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/02/ad77a80c39f6-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-04_16.31.37.png",
+      "bytes": 162688,
+      "sha1": "6f7c8312c2c66d198cf3431fa4d7d8a424749fca"
+    },
+    {
+      "source_path": "notion/02.웹 퍼블리싱 시작하기/05. Copilot 코드 추천 끄기/0abc30c95c44-스크린샷_2026-06-04_16.18.29.png",
+      "image_path": "codeit-fs-15/images/02/0abc30c95c44-스크린샷_2026-06-04_16.18.29.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/02/0abc30c95c44-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-04_16.18.29.png",
+      "bytes": 63970,
+      "sha1": "4c774a881d945efd88198e66d2ea8328a4c4528a"
+    },
+    {
+      "source_path": "notion/02.웹 퍼블리싱 시작하기/05. 구글 폰트/34cbd1ea0891-스크린샷_2026-06-05_15.14.21.png",
+      "image_path": "codeit-fs-15/images/02/34cbd1ea0891-스크린샷_2026-06-05_15.14.21.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/02/34cbd1ea0891-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_15.14.21.png",
+      "bytes": 301669,
+      "sha1": "18d873bc9acab621d8be8cbf5f0fcd9265bd50f8"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/01. CSS 핵심 개념 소개/bf52cba1fc52-image.png",
+      "image_path": "codeit-fs-15/images/03/bf52cba1fc52-image.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/bf52cba1fc52-image.png",
+      "bytes": 65069,
+      "sha1": "ccbb0a33092e52536179fd4b9d1bf8e00aacb033"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/01. CSS 핵심 개념 소개/422a5e1b45e9-스크린샷_2026-06-05_16.20.51.png",
+      "image_path": "codeit-fs-15/images/03/422a5e1b45e9-스크린샷_2026-06-05_16.20.51.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/422a5e1b45e9-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_16.20.51.png",
+      "bytes": 217446,
+      "sha1": "cbd7cb67accce5b38cce5d9711b7bf33647465f6"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/01. CSS 핵심 개념 소개/6b891fd1e8d4-스크린샷_2026-06-05_16.22.28.png",
+      "image_path": "codeit-fs-15/images/03/6b891fd1e8d4-스크린샷_2026-06-05_16.22.28.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/6b891fd1e8d4-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_16.22.28.png",
+      "bytes": 304703,
+      "sha1": "14f5cee582eddd5f105d17bb259daa504577d4a4"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/01. CSS 핵심 개념 소개/c5095daa1e93-스크린샷_2026-06-05_16.23.35.png",
+      "image_path": "codeit-fs-15/images/03/c5095daa1e93-스크린샷_2026-06-05_16.23.35.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/c5095daa1e93-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_16.23.35.png",
+      "bytes": 319918,
+      "sha1": "b0700abcbc90544b3c6f955969c4049104084083"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/01. #스크립트 CSS 핵심 개념 소개/afa2263347da-스크린샷_2026-06-05_16.23.27.png",
+      "image_path": "codeit-fs-15/images/03/afa2263347da-스크린샷_2026-06-05_16.23.27.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/afa2263347da-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_16.23.27.png",
+      "bytes": 312663,
+      "sha1": "6d6d5b62a2d74d71a7ba6216210c14eee694d108"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/02. CSS 규칙/151c8d7e9e91-스크린샷_2026-06-05_16.25.34.png",
+      "image_path": "codeit-fs-15/images/03/151c8d7e9e91-스크린샷_2026-06-05_16.25.34.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/151c8d7e9e91-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_16.25.34.png",
+      "bytes": 360869,
+      "sha1": "97021d10c68dce342228a92f9fb0e96fd114d1be"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/02. CSS 규칙/1b01568b4c88-스크린샷_2026-06-05_16.25.20.png",
+      "image_path": "codeit-fs-15/images/03/1b01568b4c88-스크린샷_2026-06-05_16.25.20.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/1b01568b4c88-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_16.25.20.png",
+      "bytes": 487114,
+      "sha1": "948f1853734bac38fbf5f4e7f44377ec02ad1ae2"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/02. CSS 규칙/15ebd3440ed4-스크린샷_2026-06-05_16.26.19.png",
+      "image_path": "codeit-fs-15/images/03/15ebd3440ed4-스크린샷_2026-06-05_16.26.19.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/15ebd3440ed4-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_16.26.19.png",
+      "bytes": 319205,
+      "sha1": "cd40174f2b398403b14f9fca7e60ef8777481efb"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/02. CSS 규칙/271256dc70aa-스크린샷_2026-06-05_16.26.30.png",
+      "image_path": "codeit-fs-15/images/03/271256dc70aa-스크린샷_2026-06-05_16.26.30.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/271256dc70aa-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_16.26.30.png",
+      "bytes": 323348,
+      "sha1": "4456b35cea64afd05f21e0670849b8c57f83befd"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/02. CSS 규칙/c6c84804141e-스크린샷_2026-06-05_16.27.03.png",
+      "image_path": "codeit-fs-15/images/03/c6c84804141e-스크린샷_2026-06-05_16.27.03.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/c6c84804141e-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_16.27.03.png",
+      "bytes": 266704,
+      "sha1": "bae20ba9e95115208193953e22443c8acb0ec765"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/07. 개발자 도구로 선택자 확인하기/5faab014d15c-스크린샷_2026-06-05_18.33.20.png",
+      "image_path": "codeit-fs-15/images/03/5faab014d15c-스크린샷_2026-06-05_18.33.20.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/5faab014d15c-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.33.20.png",
+      "bytes": 201780,
+      "sha1": "a3e241932482ac061e30a7f6b9cb15bcfeb16558"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/07. 개발자 도구로 선택자 확인하기/2fec64f8ef23-스크린샷_2026-06-05_18.32.16.png",
+      "image_path": "codeit-fs-15/images/03/2fec64f8ef23-스크린샷_2026-06-05_18.32.16.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/2fec64f8ef23-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.32.16.png",
+      "bytes": 231141,
+      "sha1": "0628f343b46d0afa29ddd1e1371c64e2f614de45"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/07. 개발자 도구로 선택자 확인하기/39881eeb09c8-스크린샷_2026-06-05_18.35.18.png",
+      "image_path": "codeit-fs-15/images/03/39881eeb09c8-스크린샷_2026-06-05_18.35.18.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/39881eeb09c8-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.35.18.png",
+      "bytes": 133361,
+      "sha1": "8bfa45360a768c02b4ed0acaf2287e591c3aea0a"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/08. 다양한 색상 단위/dd739c05bda5-스크린샷_2026-06-05_18.06.59.png",
+      "image_path": "codeit-fs-15/images/03/dd739c05bda5-스크린샷_2026-06-05_18.06.59.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/dd739c05bda5-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.06.59.png",
+      "bytes": 387011,
+      "sha1": "ec9d0458a7b8307868659b9613ee48edf0d9ea19"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/08. 다양한 색상 단위/55b4b4a97509-스크린샷_2026-06-05_18.07.23.png",
+      "image_path": "codeit-fs-15/images/03/55b4b4a97509-스크린샷_2026-06-05_18.07.23.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/55b4b4a97509-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.07.23.png",
+      "bytes": 126244,
+      "sha1": "ececfc7d79a8c3365214934b4e87b6b8a0b1f770"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/08. 다양한 색상 단위/24fb703a41a9-스크린샷_2026-06-05_18.07.31.png",
+      "image_path": "codeit-fs-15/images/03/24fb703a41a9-스크린샷_2026-06-05_18.07.31.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/24fb703a41a9-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.07.31.png",
+      "bytes": 144998,
+      "sha1": "9af00906e1940c3766d16713bedfbe3440f67510"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/08. 다양한 색상 단위/6349fcc82ed8-스크린샷_2026-06-05_18.07.40.png",
+      "image_path": "codeit-fs-15/images/03/6349fcc82ed8-스크린샷_2026-06-05_18.07.40.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/6349fcc82ed8-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.07.40.png",
+      "bytes": 144568,
+      "sha1": "a1c70cfbe8c67aec79acddcf314a45c90f9171f4"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/08. 다양한 색상 단위/cc39974833d6-스크린샷_2026-06-05_18.07.52.png",
+      "image_path": "codeit-fs-15/images/03/cc39974833d6-스크린샷_2026-06-05_18.07.52.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/cc39974833d6-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.07.52.png",
+      "bytes": 160287,
+      "sha1": "85d3def4dda4305d382524126ec86500411c5c7a"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/08. 다양한 색상 단위/a180e34422a0-스크린샷_2026-06-05_18.08.17.png",
+      "image_path": "codeit-fs-15/images/03/a180e34422a0-스크린샷_2026-06-05_18.08.17.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/a180e34422a0-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.08.17.png",
+      "bytes": 146968,
+      "sha1": "1a9959aaa01d4a9da19c9da12af0d33f1729f76a"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/08. 다양한 색상 단위/2e12a5fb8f8a-스크린샷_2026-06-05_18.08.25.png",
+      "image_path": "codeit-fs-15/images/03/2e12a5fb8f8a-스크린샷_2026-06-05_18.08.25.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/2e12a5fb8f8a-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.08.25.png",
+      "bytes": 164877,
+      "sha1": "68e2655751a904013abd5077c41970b9903a2d08"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/08. 다양한 색상 단위/2a81f606286c-스크린샷_2026-06-05_18.08.34.png",
+      "image_path": "codeit-fs-15/images/03/2a81f606286c-스크린샷_2026-06-05_18.08.34.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/2a81f606286c-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.08.34.png",
+      "bytes": 208436,
+      "sha1": "29e5bb94d251cb791db15446c7ded361ff60d9e0"
+    },
+    {
+      "source_path": "notion/03.CSS 핵심 개념/08. 다양한 색상 단위/0a78364fbdf9-스크린샷_2026-06-05_18.08.40.png",
+      "image_path": "codeit-fs-15/images/03/0a78364fbdf9-스크린샷_2026-06-05_18.08.40.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/03/0a78364fbdf9-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-05_18.08.40.png",
+      "bytes": 206259,
+      "sha1": "c106c61695115fa444db197cd95335664694156c"
     }
   ]
 }
