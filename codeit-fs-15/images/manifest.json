@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-07-02T14:30:54.978Z",
+  "generated_at": "2026-08-05T09:28:01Z",
   "scope": "codeit-fs-15 course images 01-21",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1238,
+  "count": 1242,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -8671,6 +8671,34 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/02/5fa969451601-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-07-02_22.13.40.png",
       "bytes": 109685,
       "sha1": "c924c4b8dcc194ff2ce5fad8fc4882adbc2f0513"
+    },
+    {
+      "source_path": "generated/page17/flux-mvc-roles.svg",
+      "image_path": "codeit-fs-15/images/17/c8da43c3a90c-flux-mvc-roles.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/17/c8da43c3a90c-flux-mvc-roles.png",
+      "bytes": 97356,
+      "sha1": "c8da43c3a90cac0920884b4191bb68b50f7a4da6"
+    },
+    {
+      "source_path": "generated/page17/flux-mvc-dependencies.svg",
+      "image_path": "codeit-fs-15/images/17/4ff1880cef22-flux-mvc-dependencies.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/17/4ff1880cef22-flux-mvc-dependencies.png",
+      "bytes": 118141,
+      "sha1": "4ff1880cef224664bf3487b9cb181fb420682981"
+    },
+    {
+      "source_path": "generated/page17/flux-unidirectional-flow.svg",
+      "image_path": "codeit-fs-15/images/17/c7fd346ea661-flux-unidirectional-flow.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/17/c7fd346ea661-flux-unidirectional-flow.png",
+      "bytes": 92822,
+      "sha1": "c7fd346ea66138af919a53bc322f3919bf4179b2"
+    },
+    {
+      "source_path": "generated/page17/flux-unidirectional-flow.svg",
+      "image_path": "codeit-fs-15/images/17/5eb991cd1e0b-flux-unidirectional-flow.gif",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/17/5eb991cd1e0b-flux-unidirectional-flow.gif",
+      "bytes": 81858,
+      "sha1": "5eb991cd1e0b5ce44044f32de1b0de75ebb9dc4a"
     }
   ]
 }
