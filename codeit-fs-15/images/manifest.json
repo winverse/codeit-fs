@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-08-08T02:44:10Z",
+  "generated_at": "2026-08-08T03:26:29Z",
   "scope": "codeit-fs-15 course images 01-21",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1245,
+  "count": 1246,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -8720,6 +8720,13 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/18/array-sort-practice.jpg",
       "bytes": 64019,
       "sha1": "f38e07cbb2fe8fed54fee28fd1457acaa7fc28f2"
+    },
+    {
+      "source_path": "notion/page18/array-map-practice.png",
+      "image_path": "codeit-fs-15/images/18/array-map-practice.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/18/array-map-practice.png",
+      "bytes": 95687,
+      "sha1": "c2d69fc3e47d9d5bf13733bd84aab2a84f2e049f"
     }
   ]
 }
