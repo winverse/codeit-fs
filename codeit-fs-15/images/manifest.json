@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-08-08T03:26:29Z",
+  "generated_at": "2026-08-11T17:08:29Z",
   "scope": "codeit-fs-15 course images 01-21",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1246,
+  "count": 1250,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -8727,6 +8727,34 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/18/array-map-practice.png",
       "bytes": 95687,
       "sha1": "c2d69fc3e47d9d5bf13733bd84aab2a84f2e049f"
+    },
+    {
+      "source_path": "generated/page19/uri-url-urn-relationship.svg",
+      "image_path": "codeit-fs-15/images/19/uri-url-urn-relationship.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/19/uri-url-urn-relationship.png",
+      "bytes": 153549,
+      "sha1": "6c5c0e8d46b9ed73aa1e950bc3b7b868a80fbffa"
+    },
+    {
+      "source_path": "generated/page19/zustand-devtools-action-flow.svg",
+      "image_path": "codeit-fs-15/images/19/zustand-devtools-action-flow.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/19/zustand-devtools-action-flow.png",
+      "bytes": 164572,
+      "sha1": "de126c88943b21a2c5dcbe3f63c37a840920a95e"
+    },
+    {
+      "source_path": "generated/page19/bundler-dependency-graph-output.svg",
+      "image_path": "codeit-fs-15/images/19/bundler-dependency-graph-output.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/19/bundler-dependency-graph-output.png",
+      "bytes": 160269,
+      "sha1": "b9b43c55e159854af42e7ed61bc5556f64ddae9b"
+    },
+    {
+      "source_path": "generated/page19/csr-ssr-ssg-where-when.svg",
+      "image_path": "codeit-fs-15/images/19/csr-ssr-ssg-where-when.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/19/csr-ssr-ssg-where-when.png",
+      "bytes": 147007,
+      "sha1": "a80fa39e0b995d029589f97691e8175263e3ecdc"
     }
   ]
 }

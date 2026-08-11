@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">번들러의 의존성 그래프 분석과 배포 결과</title>
+  <desc id="desc">번들러는 entry에서 정적 import와 동적 import 관계를 따라 source dependency graph를 분석하고 코드를 변환하고 최적화합니다. 설정과 동적 import에 따라 배포 결과는 하나 이상의 JavaScript chunk와 CSS, 이미지, 폰트 asset이 될 수 있으며 source module 수와 결과 파일 수는 일대일이 아닙니다.</desc>
+  <metadata>
+    직접 제작한 교육용 도식. 외부 이미지, 로고, 제품 UI를 사용하지 않음.
+    근거: https://vite.dev/guide/#overview
+    근거: https://vite.dev/guide/build#chunking-strategy
+    근거: https://vite.dev/guide/features.html#static-assets
+    근거: https://vite.dev/guide/backend-integration
+    근거: https://rolldown.rs/reference/Interface.OutputOptions
+  </metadata>
+  <defs>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M 0 0 L 11 5.5 L 0 11 z" fill="#475569"/>
+    </marker>
+    <marker id="arrow-blue" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#2563EB"/>
+    </marker>
+    <style>
+      .sans { font-family: Pretendard, "Noto Sans KR", "Apple SD Gothic Neo", sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+      .title { font-size: 52px; font-weight: 700; fill: #0F172A; }
+      .subtitle { font-size: 26px; font-weight: 400; fill: #475569; }
+      .panel-title { font-size: 29px; font-weight: 800; fill: #0F172A; }
+      .node { font-size: 24px; font-weight: 650; fill: #0F172A; }
+      .body { font-size: 28px; font-weight: 600; fill: #334155; }
+      .small { font-size: 24px; font-weight: 550; fill: #475569; }
+      .footer { font-size: 24px; font-weight: 700; fill: #0F172A; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="#F8FAFC"/>
+  <text x="96" y="100" class="sans title">의존성 그래프에서 chunk와 asset까지</text>
+  <text x="96" y="150" class="sans subtitle">프로덕션 빌드는 모듈을 분석·변환해 배포할 결과물을 구성합니다.</text>
+
+  <rect x="110" y="220" width="500" height="510" rx="24" fill="#FFFFFF" stroke="#64748B" stroke-width="3"/>
+  <text x="360" y="265" text-anchor="middle" class="sans panel-title">Source dependency graph</text>
+
+  <rect x="250" y="290" width="220" height="64" rx="15" fill="#DBEAFE" stroke="#2563EB" stroke-width="3"/>
+  <text x="360" y="330" text-anchor="middle" class="mono node">src/main.jsx (entry)</text>
+
+  <rect x="145" y="410" width="170" height="60" rx="14" fill="#F1F5F9" stroke="#64748B" stroke-width="3"/>
+  <text x="230" y="448" text-anchor="middle" class="mono node">App.jsx</text>
+  <rect x="390" y="410" width="170" height="60" rx="14" fill="#DCFCE7" stroke="#15803D" stroke-width="3"/>
+  <text x="475" y="448" text-anchor="middle" class="mono node">styles.css</text>
+
+  <rect x="125" y="535" width="150" height="58" rx="14" fill="#F1F5F9" stroke="#64748B" stroke-width="3"/>
+  <text x="200" y="572" text-anchor="middle" class="mono node">Cart.jsx</text>
+  <rect x="305" y="535" width="150" height="58" rx="14" fill="#FFEDD5" stroke="#B45309" stroke-width="3"/>
+  <text x="380" y="572" text-anchor="middle" class="mono node">logo.svg</text>
+  <rect x="430" y="635" width="150" height="58" rx="14" fill="#F3E8FF" stroke="#7C3AED" stroke-width="3"/>
+  <text x="505" y="672" text-anchor="middle" class="mono node">Admin.jsx</text>
+
+  <path d="M315 354 L248 400" fill="none" stroke="#475569" stroke-width="3.5" marker-end="url(#arrow)"/>
+  <path d="M405 354 L457 400" fill="none" stroke="#475569" stroke-width="3.5" marker-end="url(#arrow)"/>
+  <text x="353" y="392" text-anchor="middle" class="sans small">정적 import</text>
+  <path d="M210 470 L203 525" fill="none" stroke="#475569" stroke-width="3.5" marker-end="url(#arrow)"/>
+  <path d="M260 470 L355 528" fill="none" stroke="#475569" stroke-width="3.5" marker-end="url(#arrow)"/>
+  <path d="M455 354 C560 430 555 555 515 625" fill="none" stroke="#7C3AED" stroke-width="4" stroke-dasharray="12 9" marker-end="url(#arrow)"/>
+  <text x="513" y="519" text-anchor="middle" class="sans small" fill="#6D28D9">동적 import</text>
+
+  <line x1="610" y1="475" x2="650" y2="475" stroke="#2563EB" stroke-width="7" marker-end="url(#arrow-blue)"/>
+
+  <rect x="665" y="265" width="355" height="425" rx="24" fill="#FFFFFF" stroke="#2563EB" stroke-width="4"/>
+  <rect x="665" y="265" width="355" height="68" rx="24" fill="#DBEAFE"/>
+  <path d="M665 300 Q665 333 690 333 H1020 V300" fill="#DBEAFE"/>
+  <text x="842" y="307" text-anchor="middle" class="sans panel-title">번들러 · 프로덕션 빌드</text>
+
+  <rect x="700" y="365" width="285" height="55" rx="14" fill="#F1F5F9" stroke="#94A3B8" stroke-width="2.5"/>
+  <circle cx="730" cy="392" r="17" fill="#2563EB"/>
+  <text x="730" y="400" text-anchor="middle" class="sans" font-size="21" font-weight="800" fill="#FFFFFF">1</text>
+  <text x="760" y="400" class="sans body">의존성 분석</text>
+  <line x1="842" y1="421" x2="842" y2="439" stroke="#94A3B8" stroke-width="3"/>
+  <rect x="700" y="440" width="285" height="55" rx="14" fill="#F1F5F9" stroke="#94A3B8" stroke-width="2.5"/>
+  <circle cx="730" cy="467" r="17" fill="#2563EB"/>
+  <text x="730" y="475" text-anchor="middle" class="sans" font-size="21" font-weight="800" fill="#FFFFFF">2</text>
+  <text x="760" y="475" class="sans body">코드·asset 변환</text>
+  <line x1="842" y1="496" x2="842" y2="514" stroke="#94A3B8" stroke-width="3"/>
+  <rect x="700" y="515" width="285" height="65" rx="14" fill="#F1F5F9" stroke="#94A3B8" stroke-width="2.5"/>
+  <circle cx="730" cy="547" r="17" fill="#2563EB"/>
+  <text x="730" y="555" text-anchor="middle" class="sans" font-size="21" font-weight="800" fill="#FFFFFF">3</text>
+  <text x="760" y="540" class="sans body">안전한 경우</text>
+  <text x="760" y="568" class="sans small">미사용 export 제거</text>
+  <line x1="842" y1="581" x2="842" y2="599" stroke="#94A3B8" stroke-width="3"/>
+  <rect x="700" y="600" width="285" height="55" rx="14" fill="#F1F5F9" stroke="#94A3B8" stroke-width="2.5"/>
+  <circle cx="730" cy="627" r="17" fill="#2563EB"/>
+  <text x="730" y="635" text-anchor="middle" class="sans" font-size="21" font-weight="800" fill="#FFFFFF">4</text>
+  <text x="760" y="635" class="sans body">압축·chunk 분할</text>
+
+  <line x1="1020" y1="475" x2="1070" y2="475" stroke="#2563EB" stroke-width="7" marker-end="url(#arrow-blue)"/>
+
+  <rect x="1080" y="220" width="410" height="510" rx="24" fill="#FFFFFF" stroke="#64748B" stroke-width="3"/>
+  <text x="1285" y="265" text-anchor="middle" class="sans panel-title">배포 결과 (예시)</text>
+  <rect x="1120" y="305" width="330" height="105" rx="18" fill="#DBEAFE" stroke="#2563EB" stroke-width="3"/>
+  <text x="1285" y="349" text-anchor="middle" class="sans body" font-weight="800">entry chunk · JS</text>
+  <text x="1285" y="384" text-anchor="middle" class="sans small">하나 이상의 JS 결과</text>
+  <rect x="1120" y="445" width="330" height="105" rx="18" fill="#F3E8FF" stroke="#7C3AED" stroke-width="3" stroke-dasharray="10 7"/>
+  <text x="1285" y="489" text-anchor="middle" class="sans body" font-weight="800">분할 chunk · JS</text>
+  <text x="1285" y="524" text-anchor="middle" class="sans small">설정에 따라 있을 수 있음</text>
+  <rect x="1120" y="585" width="330" height="105" rx="18" fill="#FFEDD5" stroke="#B45309" stroke-width="3"/>
+  <text x="1285" y="629" text-anchor="middle" class="sans body" font-weight="800">asset</text>
+  <text x="1285" y="664" text-anchor="middle" class="sans small">CSS · 이미지 · 폰트</text>
+
+  <line x1="110" y1="770" x2="240" y2="770" stroke="#475569" stroke-width="4"/>
+  <text x="260" y="779" class="sans small">실선 = 정적 import</text>
+  <line x1="505" y1="770" x2="635" y2="770" stroke="#7C3AED" stroke-width="4" stroke-dasharray="12 9"/>
+  <text x="655" y="779" class="sans small">점선 = 동적 import·분할 후보</text>
+  <rect x="1030" y="750" width="460" height="58" rx="16" fill="#E2E8F0"/>
+  <text x="1260" y="787" text-anchor="middle" class="sans footer">모듈 수와 결과 파일 수는 1:1이 아닙니다.</text>
+</svg>

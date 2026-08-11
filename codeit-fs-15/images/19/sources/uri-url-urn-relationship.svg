@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">URI 안의 이름 식별과 접근 방법 역할</title>
+  <desc id="desc">URI는 식별자의 큰 범주입니다. URI 안에서 이름으로 식별하는 성격과 주된 접근 방법이나 위치를 나타내는 성격은 겹칠 수 있습니다. URN은 urn 스킴과 이름 공간을 사용하는 대표 예이고, URL은 식별과 함께 주된 접근 방법을 제공하는 대표 예입니다. mailto는 별도의 다른 URI 스킴 예시입니다.</desc>
+  <metadata>
+    직접 제작한 교육용 도식. 외부 이미지, 로고, 제품 UI를 사용하지 않음.
+    근거: https://datatracker.ietf.org/doc/html/rfc3986#section-1.1.3
+    근거: https://datatracker.ietf.org/doc/html/rfc8141#section-1.1
+  </metadata>
+  <defs>
+    <style>
+      .sans { font-family: Pretendard, "Noto Sans KR", "Apple SD Gothic Neo", sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+      .title { font-size: 52px; font-weight: 700; fill: #0F172A; }
+      .subtitle { font-size: 26px; font-weight: 400; fill: #475569; }
+      .frame-title { font-size: 30px; font-weight: 700; fill: #0F172A; }
+      .role-title { font-size: 28px; font-weight: 700; fill: #0F172A; }
+      .body { font-size: 26px; font-weight: 500; fill: #334155; }
+      .small { font-size: 24px; font-weight: 500; fill: #475569; }
+      .card-title { font-size: 34px; font-weight: 800; fill: #0F172A; }
+      .code { font-size: 24px; font-weight: 600; fill: #0F172A; }
+      .footer { font-size: 26px; font-weight: 700; fill: #0F172A; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="#F8FAFC"/>
+  <text x="96" y="100" class="sans title">URI 안의 두 역할: 이름과 접근 방법</text>
+  <text x="96" y="150" class="sans subtitle">URN과 URL은 대표적인 URI이며, 역할의 성격은 서로 겹칠 수 있습니다.</text>
+
+  <rect x="120" y="195" width="1360" height="545" rx="28" fill="#FFFFFF" stroke="#334155" stroke-width="4"/>
+  <rect x="150" y="220" width="502" height="62" rx="18" fill="#E2E8F0"/>
+  <text x="178" y="262" class="sans frame-title">URI — 리소스를 식별하는 큰 범주</text>
+
+  <rect x="165" y="310" width="785" height="270" rx="132" fill="#F3E8FF" fill-opacity="0.86" stroke="#7C3AED" stroke-width="3" stroke-dasharray="12 9"/>
+  <rect x="650" y="310" width="785" height="270" rx="132" fill="#DBEAFE" fill-opacity="0.78" stroke="#2563EB" stroke-width="3" stroke-dasharray="12 9"/>
+
+  <text x="242" y="357" class="sans role-title">이름으로 식별하는 성격</text>
+  <text x="242" y="392" class="sans small">리소스를 이름으로 가리킴</text>
+  <text x="1085" y="357" text-anchor="middle" class="sans role-title">주된 접근 방법·위치 성격</text>
+  <text x="1085" y="392" text-anchor="middle" class="sans small">어떻게 접근할지 함께 제시</text>
+
+  <rect x="215" y="420" width="410" height="125" rx="20" fill="#FFFFFF" stroke="#7C3AED" stroke-width="4"/>
+  <rect x="237" y="438" width="96" height="43" rx="14" fill="#7C3AED"/>
+  <text x="285" y="469" text-anchor="middle" class="sans" font-size="28" font-weight="800" fill="#FFFFFF">URN</text>
+  <text x="351" y="469" class="sans small" font-weight="700">대표 강조</text>
+  <text x="420" y="507" text-anchor="middle" class="mono code">urn:isbn:9780134190440</text>
+  <text x="420" y="535" text-anchor="middle" class="sans small">urn 스킴 + 관리되는 이름 공간</text>
+
+  <rect x="646" y="410" width="466" height="145" rx="20" fill="#FFFFFF" stroke="#2563EB" stroke-width="4"/>
+  <rect x="668" y="428" width="92" height="43" rx="14" fill="#2563EB"/>
+  <text x="714" y="459" text-anchor="middle" class="sans" font-size="28" font-weight="800" fill="#FFFFFF">URL</text>
+  <text x="778" y="459" class="sans small" font-weight="700">대표 강조 · 두 역할이 함께 나타남</text>
+  <text x="879" y="500" text-anchor="middle" class="mono code">https://example.com/</text>
+  <text x="879" y="532" text-anchor="middle" class="mono code">index.html</text>
+
+  <rect x="190" y="612" width="430" height="82" rx="18" fill="#FFEDD5" stroke="#B45309" stroke-width="3"/>
+  <text x="215" y="646" class="sans small" font-weight="700" fill="#92400E">다른 URI 스킴 예</text>
+  <text x="405" y="677" text-anchor="middle" class="mono code">mailto:alice@example.com</text>
+
+  <rect x="660" y="612" width="780" height="82" rx="18" fill="#F1F5F9" stroke="#64748B" stroke-width="3"/>
+  <text x="1050" y="647" text-anchor="middle" class="sans small" font-weight="700">역할 영역은 URL·URN을 완전히 나누는 집합 경계가 아닙니다.</text>
+  <text x="1050" y="680" text-anchor="middle" class="sans small">스킴마다 해석 규칙이 다르며, 위 항목은 대표 사례입니다.</text>
+
+  <line x1="96" y1="775" x2="1504" y2="775" stroke="#CBD5E1" stroke-width="3"/>
+  <text x="800" y="817" text-anchor="middle" class="sans footer">URL은 식별하면서 주된 접근 방법을 제공하고, URN은 위치 독립적 식별을 의도합니다.</text>
+</svg>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Zustand DevTools action 추적 흐름</title>
+  <desc id="desc">상품 추가 클릭이 addItem product 함수를 호출하고 devtools middleware가 확장한 set updater false cart slash addItem이 Zustand store의 state를 갱신합니다. middleware는 cart slash addItem이라는 action 이름과 변경 결과를 Redux DevTools에 전달해 검사할 수 있게 합니다.</desc>
+  <metadata>
+    직접 제작한 교육용 도식. 외부 이미지, 로고, 제품 UI를 사용하지 않음.
+    근거: https://zustand.docs.pmnd.rs/reference/middlewares/devtools
+    근거: https://redux.js.org/style-guide/#use-the-redux-devtools-extension-for-debugging
+  </metadata>
+  <defs>
+    <marker id="arrow-slate" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#475569"/>
+    </marker>
+    <marker id="arrow-blue" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#2563EB"/>
+    </marker>
+    <marker id="arrow-purple" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M 0 0 L 12 6 L 0 12 z" fill="#7C3AED"/>
+    </marker>
+    <style>
+      .sans { font-family: Pretendard, "Noto Sans KR", "Apple SD Gothic Neo", sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+      .title { font-size: 52px; font-weight: 700; fill: #0F172A; }
+      .subtitle { font-size: 26px; font-weight: 400; fill: #475569; }
+      .step { font-size: 28px; font-weight: 800; fill: #334155; }
+      .card-title { font-size: 29px; font-weight: 800; fill: #0F172A; }
+      .body { font-size: 28px; font-weight: 500; fill: #334155; }
+      .small { font-size: 24px; font-weight: 500; fill: #475569; }
+      .code { font-size: 24px; font-weight: 650; fill: #0F172A; }
+      .edge { font-size: 24px; font-weight: 700; fill: #475569; }
+      .footer { font-size: 26px; font-weight: 700; fill: #0F172A; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="#F8FAFC"/>
+  <text x="96" y="100" class="sans title">Zustand action을 DevTools로 추적하는 흐름</text>
+  <text x="96" y="150" class="sans subtitle">함수 이름과 기록되는 action 이름을 구분해 state 변경을 따라갑니다.</text>
+
+  <rect x="110" y="285" width="240" height="190" rx="20" fill="#FFFFFF" stroke="#64748B" stroke-width="3"/>
+  <rect x="110" y="285" width="240" height="52" rx="20" fill="#E2E8F0"/>
+  <path d="M110 317 Q110 337 130 337 H350 V317" fill="#E2E8F0"/>
+  <text x="230" y="321" text-anchor="middle" class="sans step">① 사용자 동작</text>
+  <text x="230" y="397" text-anchor="middle" class="sans card-title">상품 추가 클릭</text>
+  <text x="230" y="437" text-anchor="middle" class="sans small">UI 이벤트</text>
+
+  <rect x="400" y="285" width="260" height="190" rx="20" fill="#FFFFFF" stroke="#15803D" stroke-width="3"/>
+  <rect x="400" y="285" width="260" height="52" rx="20" fill="#DCFCE7"/>
+  <path d="M400 317 Q400 337 420 337 H660 V317" fill="#DCFCE7"/>
+  <text x="530" y="321" text-anchor="middle" class="sans step">② Zustand action</text>
+  <text x="530" y="395" text-anchor="middle" class="mono code">addItem(product)</text>
+  <text x="530" y="437" text-anchor="middle" class="sans small">store 함수 호출</text>
+
+  <rect x="710" y="285" width="390" height="190" rx="20" fill="#FFFFFF" stroke="#2563EB" stroke-width="4"/>
+  <rect x="710" y="285" width="390" height="52" rx="20" fill="#DBEAFE"/>
+  <path d="M710 317 Q710 337 730 337 H1100 V317" fill="#DBEAFE"/>
+  <text x="905" y="321" text-anchor="middle" class="sans step">③ devtools가 확장한 set</text>
+  <text x="905" y="385" text-anchor="middle" class="mono code">set(updater, false,</text>
+  <text x="905" y="419" text-anchor="middle" class="mono code">'cart/addItem')</text>
+  <text x="905" y="452" text-anchor="middle" class="sans small">갱신 정보 + 기록 이름</text>
+
+  <line x1="350" y1="380" x2="390" y2="380" stroke="#475569" stroke-width="4" marker-end="url(#arrow-slate)"/>
+  <text x="370" y="360" text-anchor="middle" class="sans edge">호출</text>
+  <line x1="660" y1="380" x2="700" y2="380" stroke="#475569" stroke-width="4" marker-end="url(#arrow-slate)"/>
+  <text x="680" y="360" text-anchor="middle" class="sans edge">실행</text>
+
+  <rect x="1170" y="220" width="320" height="240" rx="20" fill="#FFFFFF" stroke="#2563EB" stroke-width="4"/>
+  <rect x="1170" y="220" width="320" height="58" rx="20" fill="#DBEAFE"/>
+  <path d="M1170 250 Q1170 278 1190 278 H1490 V250" fill="#DBEAFE"/>
+  <text x="1330" y="260" text-anchor="middle" class="sans card-title">Zustand store</text>
+  <text x="1330" y="321" text-anchor="middle" class="mono code">이전 items: []</text>
+  <text x="1330" y="361" text-anchor="middle" class="sans body">↓ state 갱신</text>
+  <text x="1330" y="401" text-anchor="middle" class="mono code">다음 items: [상품]</text>
+  <text x="1330" y="438" text-anchor="middle" class="sans small">items만 단순화한 예</text>
+
+  <path d="M1100 342 C1124 342 1134 337 1160 337" fill="none" stroke="#2563EB" stroke-width="5" marker-end="url(#arrow-blue)"/>
+  <text x="1135" y="315" text-anchor="middle" class="sans edge" fill="#1D4ED8">state 갱신</text>
+
+  <rect x="1170" y="505" width="320" height="220" rx="20" fill="#FFFFFF" stroke="#7C3AED" stroke-width="4"/>
+  <rect x="1170" y="505" width="320" height="58" rx="20" fill="#F3E8FF"/>
+  <path d="M1170 535 Q1170 563 1190 563 H1490 V535" fill="#F3E8FF"/>
+  <text x="1330" y="545" text-anchor="middle" class="sans card-title">Redux DevTools</text>
+  <text x="1330" y="613" text-anchor="middle" class="mono code">action: cart/addItem</text>
+  <text x="1330" y="658" text-anchor="middle" class="sans body">State · Diff 결과 검사</text>
+  <text x="1330" y="696" text-anchor="middle" class="sans small">관찰·디버깅 도구</text>
+
+  <path d="M1100 420 C1130 455 1138 563 1160 585" fill="none" stroke="#7C3AED" stroke-width="5" marker-end="url(#arrow-purple)"/>
+  <rect x="820" y="515" width="330" height="58" rx="15" fill="#FFFFFF" stroke="#7C3AED" stroke-width="3"/>
+  <text x="985" y="551" text-anchor="middle" class="sans edge" fill="#6D28D9">action · 결과 state 전달</text>
+
+  <rect x="110" y="610" width="990" height="92" rx="18" fill="#F1F5F9" stroke="#94A3B8" stroke-width="3"/>
+  <text x="605" y="650" text-anchor="middle" class="sans body" font-weight="700">함수 이름</text>
+  <text x="605" y="685" text-anchor="middle" class="mono code">addItem(product)  ≠  기록 이름 cart/addItem</text>
+
+  <line x1="96" y1="765" x2="1504" y2="765" stroke="#CBD5E1" stroke-width="3"/>
+  <text x="800" y="812" text-anchor="middle" class="sans footer">DevTools는 state를 만들지 않고, middleware가 전달한 action과 결과를 관찰합니다.</text>
+</svg>
