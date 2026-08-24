@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-08-11T17:08:29Z",
+  "generated_at": "2026-08-24T10:35:00Z",
   "scope": "codeit-fs-15 course images 01-21",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1251,
+  "count": 1281,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -8755,6 +8755,216 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/19/csr-ssr-ssg-where-when.png",
       "bytes": 147007,
       "sha1": "a80fa39e0b995d029589f97691e8175263e3ecdc"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-prisma-intro-01-sql-backend-stack.png",
+      "image_path": "codeit-fs-15/images/21/course21-prisma-intro-01-sql-backend-stack.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-prisma-intro-01-sql-backend-stack.png",
+      "bytes": 164631,
+      "sha1": "bddbc28194e6299dd88f1021d69f16a6a9fa00d7"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-prisma-intro-02-orm-sql-comparison.png",
+      "image_path": "codeit-fs-15/images/21/course21-prisma-intro-02-orm-sql-comparison.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-prisma-intro-02-orm-sql-comparison.png",
+      "bytes": 218544,
+      "sha1": "65cf2779ffe46fc47b16cc3d043970840512bfb0"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-prisma-intro-03-orm-to-sql-flow.png",
+      "image_path": "codeit-fs-15/images/21/course21-prisma-intro-03-orm-to-sql-flow.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-prisma-intro-03-orm-to-sql-flow.png",
+      "bytes": 194078,
+      "sha1": "ffd51e1305bceee92a1a375836641aecf99dd3cf"
+    },
+    {
+      "source_path": "generated/page21/logo-free/course21-prisma-intro-04-prisma-features.svg",
+      "image_path": "codeit-fs-15/images/21/course21-prisma-intro-04-prisma-features.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-prisma-intro-04-prisma-features.png",
+      "bytes": 53884,
+      "sha1": "217de5bb37d8c15cf3152bd82107553bb5209806"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-01-server-database.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-01-server-database.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-01-server-database.png",
+      "bytes": 117468,
+      "sha1": "e380f22d36acb40013a30f70d15268af7513df04"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-02-web-service-stack.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-02-web-service-stack.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-02-web-service-stack.png",
+      "bytes": 112624,
+      "sha1": "c4b6aea3e7a4f49540933fc4c8a836fa10227e98"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-03-database-types.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-03-database-types.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-03-database-types.png",
+      "bytes": 123349,
+      "sha1": "356c0d8ba7a4f22cb8a601adeb7628c959ff2719"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-04-relational-table.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-04-relational-table.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-04-relational-table.png",
+      "bytes": 144305,
+      "sha1": "1f4558948012146febf8701a989ab7ed36957253"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-05-table-document-comparison.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-05-table-document-comparison.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-05-table-document-comparison.png",
+      "bytes": 230695,
+      "sha1": "66c03dce8fa4c07eaa0d8a423dc5691021171a5d"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-06-ecommerce-entities.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-06-ecommerce-entities.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-06-ecommerce-entities.png",
+      "bytes": 155245,
+      "sha1": "adc055d3ccb6ee7bcea6ee40be20f97a785a4579"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-07-ecommerce-tables.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-07-ecommerce-tables.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-07-ecommerce-tables.png",
+      "bytes": 197125,
+      "sha1": "4ab5ce2eab2b3f4a6013296a165e8dc93dedbb19"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-08-favorite-requirement.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-08-favorite-requirement.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-08-favorite-requirement.png",
+      "bytes": 200075,
+      "sha1": "a3b4ac78612c1b13e9332db2447538ded3b73a5f"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-09-favorite-relation.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-09-favorite-relation.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-09-favorite-relation.png",
+      "bytes": 200218,
+      "sha1": "54084615af3d8b2cb56eb08b63f2f2ea6fb5a23b"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-10-order-requirement.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-10-order-requirement.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-10-order-requirement.png",
+      "bytes": 210421,
+      "sha1": "a60bfede5966ce3c9ec2999240f7975578bc324b"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-11-user-order-relation.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-11-user-order-relation.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-11-user-order-relation.png",
+      "bytes": 203274,
+      "sha1": "e58c6b5239735d1a3c2ddfa3d110251e2b26fb67"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-12-order-products-requirement.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-12-order-products-requirement.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-12-order-products-requirement.png",
+      "bytes": 216799,
+      "sha1": "f3e30323a5525d6eae16fdb87d3684e383191186"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-13-ecommerce-relations.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-13-ecommerce-relations.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-13-ecommerce-relations.png",
+      "bytes": 210250,
+      "sha1": "7f0fabd80268527c812e6109e4fe18179fe71c24"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-14-dbms-term.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-14-dbms-term.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-14-dbms-term.png",
+      "bytes": 81543,
+      "sha1": "f965aba881073a35e00d24fdb5b8dfeb81f2ac06"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-15-dbms-expanded-name.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-15-dbms-expanded-name.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-15-dbms-expanded-name.png",
+      "bytes": 103449,
+      "sha1": "431b0f9d2973c858dfa2fd524dff8706d1031fc7"
+    },
+    {
+      "source_path": "generated/page21/logo-free/course21-topic-intro-16-relational-dbms-examples.svg",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-16-relational-dbms-examples.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-16-relational-dbms-examples.png",
+      "bytes": 50833,
+      "sha1": "a0bb9e64506f78ec4960792f54b62e97fba5b597"
+    },
+    {
+      "source_path": "generated/page21/logo-free/course21-topic-intro-17-relational-nonrelational-dbms.svg",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-17-relational-nonrelational-dbms.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-17-relational-nonrelational-dbms.png",
+      "bytes": 51020,
+      "sha1": "ee65d9ca8c953f7605bd8f64c77a883a403caf29"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/course21-topic-intro-18-sql-select-example.png",
+      "image_path": "codeit-fs-15/images/21/course21-topic-intro-18-sql-select-example.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-topic-intro-18-sql-select-example.png",
+      "bytes": 129715,
+      "sha1": "dc16e1606418cd58f4150a78eef07fbc31a2dfaf"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/dbeaver-blog-db-tables.png",
+      "image_path": "codeit-fs-15/images/21/dbeaver-blog-db-tables.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/dbeaver-blog-db-tables.png",
+      "bytes": 53929,
+      "sha1": "e273caa4a7cb75947f17fbe27a6d07d1ffc4e79a"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/dbeaver-connection-test-success.png",
+      "image_path": "codeit-fs-15/images/21/dbeaver-connection-test-success.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/dbeaver-connection-test-success.png",
+      "bytes": 39786,
+      "sha1": "43bd03379cb0dcb5bc08221411906e5bac0af066"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/dbeaver-finish-connection.png",
+      "image_path": "codeit-fs-15/images/21/dbeaver-finish-connection.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/dbeaver-finish-connection.png",
+      "bytes": 20701,
+      "sha1": "9ef76263c6f2d695e5bde3ea15180c5d27225f51"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/dbeaver-postgresql-connection-settings.png",
+      "image_path": "codeit-fs-15/images/21/dbeaver-postgresql-connection-settings.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/dbeaver-postgresql-connection-settings.png",
+      "bytes": 110600,
+      "sha1": "7e0f26cb1db9ee2e566cc0b0e64065520198f592"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/dbeaver-select-postgresql-driver.png",
+      "image_path": "codeit-fs-15/images/21/dbeaver-select-postgresql-driver.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/dbeaver-select-postgresql-driver.png",
+      "bytes": 354834,
+      "sha1": "1bfd7197332b42c7c40e1e167254522aa5168b34"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/postgres-app-download-18.png",
+      "image_path": "codeit-fs-15/images/21/postgres-app-download-18.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/postgres-app-download-18.png",
+      "bytes": 42029,
+      "sha1": "fc61de1a2865983e54cc8d025dc03f276e8562bf"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/postgres-app-psql-prompt.png",
+      "image_path": "codeit-fs-15/images/21/postgres-app-psql-prompt.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/postgres-app-psql-prompt.png",
+      "bytes": 18637,
+      "sha1": "53ddd94608b98325357aa41b9efacad3811f01ef"
+    },
+    {
+      "source_path": "notion/page21/2026-08-24/postgresql-windows-download-18.png",
+      "image_path": "codeit-fs-15/images/21/postgresql-windows-download-18.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/postgresql-windows-download-18.png",
+      "bytes": 58552,
+      "sha1": "efb8900540eabe324c05352d6408fc64474a9f53"
     },
     {
       "source_path": "generated/page21/jwt-access-refresh-flow.svg",
