@@ -4,7 +4,7 @@
   "generated_at": "2026-08-24T10:35:00Z",
   "scope": "codeit-fs-15 course images 01-21",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1281,
+  "count": 1282,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -8783,6 +8783,13 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-prisma-intro-04-prisma-features.png",
       "bytes": 53884,
       "sha1": "217de5bb37d8c15cf3152bd82107553bb5209806"
+    },
+    {
+      "source_path": "generated/page21/logo-free/course21-prisma-intro-04-prisma-features-v2.svg",
+      "image_path": "codeit-fs-15/images/21/course21-prisma-intro-04-prisma-features-v2.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/21/course21-prisma-intro-04-prisma-features-v2.png",
+      "bytes": 67328,
+      "sha1": "feb47407c9f1893266cb309edd2490eae47515c1"
     },
     {
       "source_path": "notion/page21/2026-08-24/course21-topic-intro-01-server-database.png",
