@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-08-26T10:25:06Z",
-  "scope": "codeit-fs-15 course images 01-24, 27",
+  "generated_at": "2026-08-26T11:28:20Z",
+  "scope": "codeit-fs-15 course images 01-24, 27, 34",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1286,
+  "count": 1290,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -9007,6 +9007,34 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/27/6b6f9a2dad90-post-comments-pagination.png",
       "bytes": 138696,
       "sha1": "6b6f9a2dad90128450dc9a421984ba38c42411de"
+    },
+    {
+      "source_path": "courses/34.TypeScript 기본/34 TypeScript 기본/5-12-object-union-intersection.svg",
+      "image_path": "codeit-fs-15/images/34/07f080676c4b-5-12-object-union-intersection.svg",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/34/07f080676c4b-5-12-object-union-intersection.svg",
+      "bytes": 2256,
+      "sha1": "07f080676c4b722d1f4151cdfe068023ff649ad3"
+    },
+    {
+      "source_path": "courses/34.TypeScript 기본/34 TypeScript 기본/5-12-primitive-literal-sets.svg",
+      "image_path": "codeit-fs-15/images/34/7cc0e1894f49-5-12-primitive-literal-sets.svg",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/34/7cc0e1894f49-5-12-primitive-literal-sets.svg",
+      "bytes": 1896,
+      "sha1": "7cc0e1894f49685e3f1b52c801c2489d1b802897"
+    },
+    {
+      "source_path": "courses/34.TypeScript 기본/34 TypeScript 기본/5-12-special-types-map.svg",
+      "image_path": "codeit-fs-15/images/34/baa9d8c65e25-5-12-special-types-map.svg",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/34/baa9d8c65e25-5-12-special-types-map.svg",
+      "bytes": 2955,
+      "sha1": "baa9d8c65e258c847d74d8032b5ed532e666212c"
+    },
+    {
+      "source_path": "courses/34.TypeScript 기본/34 TypeScript 기본/5-12-types-as-sets.svg",
+      "image_path": "codeit-fs-15/images/34/3df0b8236ac0-5-12-types-as-sets.svg",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/34/3df0b8236ac0-5-12-types-as-sets.svg",
+      "bytes": 2887,
+      "sha1": "3df0b8236ac0f51f72d4353be355d63e6d5f3d24"
     }
   ]
 }
