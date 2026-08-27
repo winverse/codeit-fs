@@ -9114,18 +9114,18 @@
       "sha1": "d67995b36e042b01ab090b397b44308f76c58cdf"
     },
     {
-      "source_path": "courses/37.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/14_reliability-diagram.png",
-      "image_path": "codeit-fs-15/images/37/8886d70cde1b-14_reliability-diagram.png",
-      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/37/8886d70cde1b-14_reliability-diagram.png",
-      "bytes": 2709970,
-      "sha1": "8886d70cde1bf18a0b5b9f999952b52fe361645b"
+      "source_path": "generated/page37/14_reliability-definition-diagram.png",
+      "image_path": "codeit-fs-15/images/37/af6729541e47-14_reliability-definition-diagram.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/37/af6729541e47-14_reliability-definition-diagram.png",
+      "bytes": 1048416,
+      "sha1": "af6729541e47e6366c394d13d049f11ad18ef345"
     },
     {
-      "source_path": "courses/37.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/15_fault-tolerance-diagram-origin.jpeg",
-      "image_path": "codeit-fs-15/images/37/7817e082cca6-15_fault-tolerance-diagram-origin.jpeg",
-      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/37/7817e082cca6-15_fault-tolerance-diagram-origin.jpeg",
-      "bytes": 124899,
-      "sha1": "7817e082cca6d3b57dd190095e94005b9af32be4"
+      "source_path": "generated/page37/15_fault-tolerance-redundancy-diagram.png",
+      "image_path": "codeit-fs-15/images/37/8bdbf221c589-15_fault-tolerance-redundancy-diagram.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/37/8bdbf221c589-15_fault-tolerance-redundancy-diagram.png",
+      "bytes": 919099,
+      "sha1": "8bdbf221c589d9b8902264b184a704e69ad89f69"
     },
     {
       "source_path": "courses/37.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/16_elasticity-autoscaling-diagram.jpeg",
@@ -9240,11 +9240,11 @@
       "sha1": "fff05dd04f959cf3b6540ceeaaec569fd9d5ec45"
     },
     {
-      "source_path": "courses/37.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/33_aws-four-levels-diagram.png",
-      "image_path": "codeit-fs-15/images/37/70627a53dd7c-33_aws-four-levels-diagram.png",
-      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/37/70627a53dd7c-33_aws-four-levels-diagram.png",
-      "bytes": 3713720,
-      "sha1": "70627a53dd7cd878a69f069920a8a2402990ce7e"
+      "source_path": "generated/page37/33_aws-interfaces-iac-diagram.png",
+      "image_path": "codeit-fs-15/images/37/ab7bb0ca1501-33_aws-interfaces-iac-diagram.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/37/ab7bb0ca1501-33_aws-interfaces-iac-diagram.png",
+      "bytes": 1030236,
+      "sha1": "ab7bb0ca15012548af5a748454379edb43e213d8"
     },
     {
       "source_path": "courses/37.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/스크린샷_2026-04-13_13.46.09.png",
