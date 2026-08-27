@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-08-26T11:34:37Z",
-  "scope": "codeit-fs-15 course images 01-24, 27, 31, 34, 37",
+  "generated_at": "2026-08-27T09:06:39Z",
+  "scope": "codeit-fs-15 course images 01-24, 27, 31, 32, 34, 37",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1340,
+  "count": 1374,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -9385,6 +9385,244 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/37/cfd9b4120c10-_2026-04-16_15.21.25.png",
       "bytes": 163498,
       "sha1": "cfd9b4120c10facc4888013dfce174ca0ef6bb74"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-08_22.45.39.png",
+      "image_path": "codeit-fs-15/images/32/9d7d016c2926-google-01-find-console.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/9d7d016c2926-google-01-find-console.png",
+      "bytes": 218600,
+      "sha1": "9d7d016c2926b00266ad196e8213789313a8d546"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.24.36.png",
+      "image_path": "codeit-fs-15/images/32/13640a2de7a6-google-02-create-project.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/13640a2de7a6-google-02-create-project.png",
+      "bytes": 49910,
+      "sha1": "13640a2de7a6d7a23b918a37835be95b3507443f"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.28.35.png",
+      "image_path": "codeit-fs-15/images/32/a9f1a9c5e65c-google-03-name-project.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/a9f1a9c5e65c-google-03-name-project.png",
+      "bytes": 39207,
+      "sha1": "a9f1a9c5e65c79a084653685f8b98269001aa00d"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.26.28.png",
+      "image_path": "codeit-fs-15/images/32/2e4865de7a68-google-04-api-services.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/2e4865de7a68-google-04-api-services.png",
+      "bytes": 35547,
+      "sha1": "2e4865de7a68977e820874450076f16931706375"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.29.32.png",
+      "image_path": "codeit-fs-15/images/32/a0aef6b2fca8-google-05-oauth-consent.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/a0aef6b2fca8-google-05-oauth-consent.png",
+      "bytes": 39100,
+      "sha1": "a0aef6b2fca8f75e4939897d46aa1139f5fc0ce4"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.30.33.png",
+      "image_path": "codeit-fs-15/images/32/88fae7e6e360-google-06-start-consent.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/88fae7e6e360-google-06-start-consent.png",
+      "bytes": 50432,
+      "sha1": "88fae7e6e360707d5fdca8bba854ef1c629515e9"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.31.31.png",
+      "image_path": "codeit-fs-15/images/32/c0a89af69e8f-google-07-external-audience.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/c0a89af69e8f-google-07-external-audience.png",
+      "bytes": 56485,
+      "sha1": "c0a89af69e8f5bb35a3cbd6e1f249264b4604c0c"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.32.02.png",
+      "image_path": "codeit-fs-15/images/32/1d6309fa2bbd-google-08-create-consent.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/1d6309fa2bbd-google-08-create-consent.png",
+      "bytes": 24906,
+      "sha1": "1d6309fa2bbd36933904804eec91f0fa53f74382"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.32.31.png",
+      "image_path": "codeit-fs-15/images/32/104862561897-google-09-data-access.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/104862561897-google-09-data-access.png",
+      "bytes": 67723,
+      "sha1": "1048625618977a0ba35e5ce92ae55dadac748b82"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.34.16.png",
+      "image_path": "codeit-fs-15/images/32/1038122bb982-google-10-add-scopes.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/1038122bb982-google-10-add-scopes.png",
+      "bytes": 48255,
+      "sha1": "1038122bb9823f7eb5e9fb481ea10cf623e51843"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.38.27.png",
+      "image_path": "codeit-fs-15/images/32/5556481cdf9a-google-11-select-scopes.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/5556481cdf9a-google-11-select-scopes.png",
+      "bytes": 146676,
+      "sha1": "5556481cdf9a2db2cbb421277c5c176071e08f1d"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.38.53.png",
+      "image_path": "codeit-fs-15/images/32/ed97ffaf7936-google-12-create-oauth-client.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/ed97ffaf7936-google-12-create-oauth-client.png",
+      "bytes": 63618,
+      "sha1": "ed97ffaf793629b0be470a6100546c85181679de"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.39.28.png",
+      "image_path": "codeit-fs-15/images/32/51cbb1344efa-google-13-web-application.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/51cbb1344efa-google-13-web-application.png",
+      "bytes": 72406,
+      "sha1": "51cbb1344efa4df47f199e6321555c6b622f0e91"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.44.07.png",
+      "image_path": "codeit-fs-15/images/32/194056f962c0-google-14-redirect-uri.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/194056f962c0-google-14-redirect-uri.png",
+      "bytes": 93246,
+      "sha1": "194056f962c01cb100bd039ee950c716a73fa71c"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-03_18.44.46.png",
+      "image_path": "codeit-fs-15/images/32/b34064d33ef6-google-15-client-created-redacted.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/b34064d33ef6-google-15-client-created-redacted.png",
+      "bytes": 41957,
+      "sha1": "b34064d33ef60d36b0a4aa4ef7cc7595523714cd"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_17.45.51.png",
+      "image_path": "codeit-fs-15/images/32/9b1e30917074-kakao-01-find-developers.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/9b1e30917074-kakao-01-find-developers.png",
+      "bytes": 73415,
+      "sha1": "9b1e309170741038c45983bc0f7bb5ef28001a91"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_17.46.15.png",
+      "image_path": "codeit-fs-15/images/32/4b9d992f2cd7-kakao-02-login.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/4b9d992f2cd7-kakao-02-login.png",
+      "bytes": 663644,
+      "sha1": "4b9d992f2cd78e79e9ef71dc0898870e39cccc93"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_17.52.35.png",
+      "image_path": "codeit-fs-15/images/32/126163b69736-kakao-03-create-app.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/126163b69736-kakao-03-create-app.png",
+      "bytes": 21589,
+      "sha1": "126163b69736acad91436d2a6e59227a9659b857"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_18.11.35.png",
+      "image_path": "codeit-fs-15/images/32/8e989ac4d4e9-kakao-04-enable-login.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/8e989ac4d4e9-kakao-04-enable-login.png",
+      "bytes": 39688,
+      "sha1": "8e989ac4d4e92860a4f59a016e7a9da95c58f14a"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_18.11.49.png",
+      "image_path": "codeit-fs-15/images/32/03bd136134dd-kakao-05-confirm-login.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/03bd136134dd-kakao-05-confirm-login.png",
+      "bytes": 39268,
+      "sha1": "03bd136134dd9847d94dbab966a4dcf53d3bf779"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_18.12.16.png",
+      "image_path": "codeit-fs-15/images/32/8a8306bc2737-kakao-06-enable-oidc.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/8a8306bc2737-kakao-06-enable-oidc.png",
+      "bytes": 84124,
+      "sha1": "8a8306bc2737285bebe61dca0b31b0f448a21727"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_18.12.31.png",
+      "image_path": "codeit-fs-15/images/32/ac82b9b68d17-kakao-07-confirm-oidc.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/ac82b9b68d17-kakao-07-confirm-oidc.png",
+      "bytes": 24326,
+      "sha1": "ac82b9b68d17c078d22cb57fa7ad8a63947dc8d0"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_18.40.12.png",
+      "image_path": "codeit-fs-15/images/32/ef64903d2813-kakao-08-open-business-settings.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/ef64903d2813-kakao-08-open-business-settings.png",
+      "bytes": 128024,
+      "sha1": "ef64903d2813cc0557692dc298108a4addf9d9f2"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_18.40.41.png",
+      "image_path": "codeit-fs-15/images/32/cc9473293b7b-kakao-09-convert-personal-business.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/cc9473293b7b-kakao-09-convert-personal-business.png",
+      "bytes": 25532,
+      "sha1": "cc9473293b7b216cbb28ddb684927ca033fe16d3"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_18.47.38.png",
+      "image_path": "codeit-fs-15/images/32/7c9f499d3489-kakao-10-configure-consent.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/7c9f499d3489-kakao-10-configure-consent.png",
+      "bytes": 66545,
+      "sha1": "7c9f499d34892b7d7ab1b2da4135537c6d2e9202"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-05_18.50.52.png",
+      "image_path": "codeit-fs-15/images/32/6f73a8720881-kakao-11-consent-result.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/6f73a8720881-kakao-11-consent-result.png",
+      "bytes": 40771,
+      "sha1": "6f73a8720881284bb9828ff3a23729eb83f9dda4"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-08_22.22.41.png",
+      "image_path": "codeit-fs-15/images/32/19c08631757a-naver-01-find-developers.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/19c08631757a-naver-01-find-developers.png",
+      "bytes": 128982,
+      "sha1": "19c08631757a60b5262f6d60f836ba08107ea62b"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-08_22.23.00.png",
+      "image_path": "codeit-fs-15/images/32/54bf9b56505c-naver-02-login.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/54bf9b56505c-naver-02-login.png",
+      "bytes": 130214,
+      "sha1": "54bf9b56505c4dbab90833aef758db93a431cf07"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-08_22.23.29.png",
+      "image_path": "codeit-fs-15/images/32/5d9ba9563763-naver-03-register-application.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/5d9ba9563763-naver-03-register-application.png",
+      "bytes": 25794,
+      "sha1": "5d9ba9563763c64b4543f34cea9884a563e2f0d5"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-08_22.25.08.png",
+      "image_path": "codeit-fs-15/images/32/35b626b4ef94-naver-04-select-login-api.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/35b626b4ef94-naver-04-select-login-api.png",
+      "bytes": 101870,
+      "sha1": "35b626b4ef9423775ff0c6698e0c7d1cc62cf6bf"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-08_22.25.40.png",
+      "image_path": "codeit-fs-15/images/32/e5c7670aff1f-naver-05-email-notice.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/e5c7670aff1f-naver-05-email-notice.png",
+      "bytes": 43980,
+      "sha1": "e5c7670aff1f7d22959d0f04133c34e6953b47b5"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-08_22.26.16.png",
+      "image_path": "codeit-fs-15/images/32/768b65a4ad93-naver-06-select-profile-fields.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/768b65a4ad93-naver-06-select-profile-fields.png",
+      "bytes": 40954,
+      "sha1": "768b65a4ad932aafc61d689e5e2593e4019dc44d"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-08_22.27.17.png",
+      "image_path": "codeit-fs-15/images/32/8cb462f27464-naver-07-add-pc-web.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/8cb462f27464-naver-07-add-pc-web.png",
+      "bytes": 44267,
+      "sha1": "8cb462f27464ad85015ed7cf068b0daaa23be29a"
+    },
+    {
+      "source_path": "references/raw/notion/31.Social OAuth 라이브러리 사용하지 않고 직접 구현하기/31 Social OAuth 라이브러리 사용하지 않고 직접 구현하기/스크린샷_2026-03-08_22.29.39.png",
+      "image_path": "codeit-fs-15/images/32/e52f9c7f55ef-naver-08-service-callback-urls.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/32/e52f9c7f55ef-naver-08-service-callback-urls.png",
+      "bytes": 137202,
+      "sha1": "e52f9c7f55ef2969d1312d19a34b5ca6c545cd99"
     }
   ]
 }
