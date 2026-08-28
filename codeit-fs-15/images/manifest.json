@@ -1,10 +1,10 @@
 {
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
-  "generated_at": "2026-08-27T09:06:39Z",
-  "scope": "codeit-fs-15 course images 01-24, 26-27, 31, 32, 34, 37",
+  "generated_at": "2026-08-28T10:03:04Z",
+  "scope": "codeit-fs-15 course images 01-27, 31, 32, 34, 37",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1387,
+  "count": 1390,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -9021,6 +9021,27 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/24/1808cbcb0324-vanilla-extract-dark-responsive-final.png",
       "bytes": 67972,
       "sha1": "1808cbcb0324e1c3df995dba87b49fc4596df3cb"
+    },
+    {
+      "source_path": "courses/25.Vanilla-extract 사용하기/검증/2026-08-27/vanilla-extract-light-responsive-final.png",
+      "image_path": "codeit-fs-15/images/25/e41bb91f7dce-vanilla-extract-light-responsive-final.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/25/e41bb91f7dce-vanilla-extract-light-responsive-final.png",
+      "bytes": 68462,
+      "sha1": "e41bb91f7dcead7ff5373c3b02c6c81aac064536"
+    },
+    {
+      "source_path": "courses/25.Vanilla-extract 사용하기/검증/2026-08-27/vanilla-extract-dark-responsive-final.png",
+      "image_path": "codeit-fs-15/images/25/1808cbcb0324-vanilla-extract-dark-responsive-final.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/25/1808cbcb0324-vanilla-extract-dark-responsive-final.png",
+      "bytes": 67972,
+      "sha1": "1808cbcb0324e1c3df995dba87b49fc4596df3cb"
+    },
+    {
+      "source_path": "courses/25.Vanilla-extract 사용하기/24 Vanilla-extract 사용하기/스크린샷_2026-01-18_17.08.21.png",
+      "image_path": "codeit-fs-15/images/25/7de2b1e22583-vanilla-extract-responsive-media-query.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/25/7de2b1e22583-vanilla-extract-responsive-media-query.png",
+      "bytes": 43637,
+      "sha1": "7de2b1e22583b3ac53898a045c8b9e7f90229bbf"
     },
     {
       "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-01-18_18.24.47.png",
