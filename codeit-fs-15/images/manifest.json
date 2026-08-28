@@ -2,9 +2,9 @@
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
   "generated_at": "2026-08-27T09:06:39Z",
-  "scope": "codeit-fs-15 course images 01-24, 27, 31, 32, 34, 37",
+  "scope": "codeit-fs-15 course images 01-24, 26-27, 31, 32, 34, 37",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1376,
+  "count": 1387,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_14.19.42.png",
@@ -9021,6 +9021,83 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/24/1808cbcb0324-vanilla-extract-dark-responsive-final.png",
       "bytes": 67972,
       "sha1": "1808cbcb0324e1c3df995dba87b49fc4596df3cb"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-01-18_18.24.47.png",
+      "image_path": "codeit-fs-15/images/26/tmdb-email-verification.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/tmdb-email-verification.png",
+      "bytes": 54586,
+      "sha1": "69adedecd35c1fdc90a00513b6562141d71bd0e6"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-01-18_18.26.18.png",
+      "image_path": "codeit-fs-15/images/26/tmdb-api-request.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/tmdb-api-request.png",
+      "bytes": 71524,
+      "sha1": "57dd25bd84009b4a94d3bcd2aa8e0d78c354eefb"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-01-18_18.27.08.png",
+      "image_path": "codeit-fs-15/images/26/tmdb-personal-use-selection.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/tmdb-personal-use-selection.png",
+      "bytes": 50779,
+      "sha1": "8b6bbcb42301f96633726817e7d283ee2be801c4"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-01-18_18.36.40.png",
+      "image_path": "codeit-fs-15/images/26/tmdb-developer-plan-form.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/tmdb-developer-plan-form.png",
+      "bytes": 125352,
+      "sha1": "011779e15298ea04d7e3efd957264f69114cf5a0"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-01-18_18.40.17.png",
+      "image_path": "codeit-fs-15/images/26/tmdb-api-settings.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/tmdb-api-settings.png",
+      "bytes": 145575,
+      "sha1": "32ee0951469d336723bbef47af33d2f9f3ca74b0"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-01-30_18.48.43.png",
+      "image_path": "codeit-fs-15/images/26/pages-router-link-prefetch.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/pages-router-link-prefetch.png",
+      "bytes": 229070,
+      "sha1": "92277b33b11b55366bc427972049985a1815ead4"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-01-30_18.52.40.png",
+      "image_path": "codeit-fs-15/images/26/pages-router-prefetch-disabled.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/pages-router-prefetch-disabled.png",
+      "bytes": 201379,
+      "sha1": "a2e19f34768d65333d9ab147034e554aa570573d"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-02-01_13.53.58.png",
+      "image_path": "codeit-fs-15/images/26/pages-router-programmatic-prefetch.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/pages-router-programmatic-prefetch.png",
+      "bytes": 113613,
+      "sha1": "6994e320aaea7f740f5e57acd13afa397b98acf2"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-02-01_15.49.07.png",
+      "image_path": "codeit-fs-15/images/26/next-cinema-home.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/next-cinema-home.png",
+      "bytes": 234721,
+      "sha1": "c2f9078858066183ce22552677a7a1beae980e9b"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-02-01_15.49.15.png",
+      "image_path": "codeit-fs-15/images/26/next-cinema-detail.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/next-cinema-detail.png",
+      "bytes": 416634,
+      "sha1": "31e5c57f023a69448dd6bf2a80a780e32e0032d0"
+    },
+    {
+      "source_path": "references/raw/notion/24.NextJS로 웹 사이트 만들기(page-router)/24 NextJS로 웹 사이트 만들기(page-router)/스크린샷_2026-02-01_15.49.37.png",
+      "image_path": "codeit-fs-15/images/26/next-cinema-search.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/26/next-cinema-search.png",
+      "bytes": 119847,
+      "sha1": "66a6a6283e05dee95a436071c1dd8f8df97f96a5"
     },
     {
       "source_path": "courses/27.React-query/27 React-query/home-feed.png",
