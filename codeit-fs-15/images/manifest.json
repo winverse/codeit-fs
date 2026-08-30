@@ -2,7 +2,7 @@
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
   "generated_at": "2026-08-28T10:07:27Z",
-  "scope": "codeit-fs-15 course images 01-27, 31, 32, 34, 37, 38",
+  "scope": "codeit-fs-15 course images 01-26, 28, 31, 32, 34, 37, 38",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
   "count": 1515,
   "files": [
@@ -9121,16 +9121,16 @@
       "sha1": "66a6a6283e05dee95a436071c1dd8f8df97f96a5"
     },
     {
-      "source_path": "courses/27.React-query/27 React-query/home-feed.png",
-      "image_path": "codeit-fs-15/images/27/cec820fd6863-home-feed.png",
-      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/27/cec820fd6863-home-feed.png",
+      "source_path": "courses/28.React-query/27 React-query/home-feed.png",
+      "image_path": "codeit-fs-15/images/28/cec820fd6863-home-feed.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/28/cec820fd6863-home-feed.png",
       "bytes": 128281,
       "sha1": "cec820fd686376a4f755dd9d2127cd6de4e10f3a"
     },
     {
-      "source_path": "courses/27.React-query/27 React-query/post-comments-pagination.png",
-      "image_path": "codeit-fs-15/images/27/6b6f9a2dad90-post-comments-pagination.png",
-      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/27/6b6f9a2dad90-post-comments-pagination.png",
+      "source_path": "courses/28.React-query/27 React-query/post-comments-pagination.png",
+      "image_path": "codeit-fs-15/images/28/6b6f9a2dad90-post-comments-pagination.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/28/6b6f9a2dad90-post-comments-pagination.png",
       "bytes": 138696,
       "sha1": "6b6f9a2dad90128450dc9a421984ba38c42411de"
     },
