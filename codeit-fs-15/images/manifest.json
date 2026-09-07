@@ -2,9 +2,9 @@
   "repository": "winverse/codeit-fs",
   "source_repository": "winverse/codeit-fs-15",
   "generated_at": "2026-09-06T12:49:49Z",
-  "scope": "codeit-fs-15 course images 01-26, 28, 31, 32, 34, 37, 38",
+  "scope": "codeit-fs-15 course images 01-28, 31, 32, 34, 37, 38",
   "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
-  "count": 1517,
+  "count": 1518,
   "files": [
     {
       "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -10624,6 +10624,13 @@
       "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/38/fdb1334e01a4-aws-original-020.png",
       "bytes": 135985,
       "sha1": "fdb1334e01a418e48662548b03e8a84f48f95ff2"
+    },
+    {
+      "source_path": "references/raw/notion/25.NextJS로 웹 사이트 만들기(app-router)/25 NextJS로 웹 사이트 만들기(app-router)/스크린샷_2026-02-04_09.10.12.png",
+      "image_path": "codeit-fs-15/images/27/357a6fcf7896-app-router-folder-routing.png",
+      "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/27/357a6fcf7896-app-router-folder-routing.png",
+      "bytes": 105271,
+      "sha1": "357a6fcf7896befb49dc0dd0c7837f9e77bee143"
     }
   ]
 }
