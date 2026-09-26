@@ -1,10 +1,10 @@
 {
  "repository": "winverse/codeit-fs",
  "source_repository": "winverse/codeit-fs-15",
- "generated_at": "2026-09-26T10:25:16.104Z",
+ "generated_at": "2026-09-26T14:25:54.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 37, 38",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1532,
+ "count": 1533,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -9238,6 +9238,13 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/28/cec820fd6863-home-feed.png",
    "bytes": 128281,
    "sha1": "cec820fd686376a4f755dd9d2127cd6de4e10f3a"
+  },
+  {
+   "source_path": "capture://codeit-fs-react-query-starter@8420911/first-screen",
+   "image_path": "codeit-fs-15/images/28/9cc94a105f56-starter-first-screen.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/28/9cc94a105f56-starter-first-screen.png",
+   "bytes": 15973,
+   "sha1": "9cc94a105f56fccb7106a4d677d58881798afc28"
   },
   {
    "source_path": "capture://codeit-fs-react-query-auth-completed@2fc7244/logged-out",
