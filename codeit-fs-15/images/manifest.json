@@ -1,10 +1,10 @@
 {
  "repository": "winverse/codeit-fs",
  "source_repository": "winverse/codeit-fs-15",
- "generated_at": "2026-09-10T08:11:22.999Z",
- "scope": "codeit-fs-15 course images 01-28, 31, 32, 34, 37, 38",
+ "generated_at": "2026-09-26T10:25:16.104Z",
+ "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 37, 38",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1530,
+ "count": 1532,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -9238,6 +9238,20 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/28/cec820fd6863-home-feed.png",
    "bytes": 128281,
    "sha1": "cec820fd686376a4f755dd9d2127cd6de4e10f3a"
+  },
+  {
+   "source_path": "capture://codeit-fs-react-query-auth-completed@2fc7244/logged-out",
+   "image_path": "codeit-fs-15/images/30/2f1dce22a353-react-query-auth-logged-out.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/2f1dce22a353-react-query-auth-logged-out.png",
+   "bytes": 1013380,
+   "sha1": "2f1dce22a353acce199e3fa3d455fd63df387a4f"
+  },
+  {
+   "source_path": "capture://codeit-fs-react-query-auth-completed@2fc7244/logged-in",
+   "image_path": "codeit-fs-15/images/30/4c4271f91d1a-react-query-auth-logged-in.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/4c4271f91d1a-react-query-auth-logged-in.png",
+   "bytes": 915926,
+   "sha1": "4c4271f91d1a2bae01d02abc4974cd11b2acd86f"
   },
   {
    "source_path": "courses/31.Layered Architecture 마이그레이션/31 Layered Architecture 마이그레이션/layered-architecture-e2e-tester.png",
