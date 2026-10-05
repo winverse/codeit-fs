@@ -1,10 +1,10 @@
 {
  "repository": "winverse/codeit-fs",
  "source_repository": "winverse/codeit-fs-15",
- "generated_at": "2026-10-05T14:47:17.000Z",
+ "generated_at": "2026-10-05T16:56:07.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1557,
+ "count": 1559,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -10904,6 +10904,20 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/f5d99242ee53-google-oauth-16-client-created.png",
    "bytes": 49455,
    "sha1": "f5d99242ee533ab9cb9754ca75756873862c0297"
+  },
+  {
+   "source_path": "capture://codeit-fs-nextjs-user-auth-completed@f64b972/logged-out-login",
+   "image_path": "codeit-fs-15/images/30/174980eff35d-nextjs-user-auth-logged-out-login.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/174980eff35d-nextjs-user-auth-logged-out-login.png",
+   "bytes": 42368,
+   "sha1": "174980eff35de9876bd49168f40b633ca9e1fe58"
+  },
+  {
+   "source_path": "capture://codeit-fs-nextjs-user-auth-completed@f64b972/logged-in-me",
+   "image_path": "codeit-fs-15/images/30/12dce02adde1-nextjs-user-auth-logged-in-me.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/12dce02adde1-nextjs-user-auth-logged-in-me.png",
+   "bytes": 119151,
+   "sha1": "12dce02adde1a2583890a6874a1c2d74d9d3252c"
   }
  ]
 }
