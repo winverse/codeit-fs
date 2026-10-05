@@ -1,10 +1,10 @@
 {
  "repository": "winverse/codeit-fs",
  "source_repository": "winverse/codeit-fs-15",
- "generated_at": "2026-09-30T14:30:33.000Z",
+ "generated_at": "2026-10-05T14:47:17.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1541,
+ "count": 1557,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -10792,6 +10792,118 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/32b03d869de0-5-12-primitive-literal-sets.svg",
    "bytes": 1896,
    "sha1": "32b03d869de0656977e14be018aca80be12f957d"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-01-project-create",
+   "image_path": "codeit-fs-15/images/30/e61fc6eb68af-google-oauth-01-project-create.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/e61fc6eb68af-google-oauth-01-project-create.png",
+   "bytes": 37468,
+   "sha1": "e61fc6eb68af2190e27486c61150b78c5d9e6477"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-02-search-auth-platform",
+   "image_path": "codeit-fs-15/images/30/cd9c336d7467-google-oauth-02-search-auth-platform.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/cd9c336d7467-google-oauth-02-search-auth-platform.png",
+   "bytes": 35723,
+   "sha1": "cd9c336d74674613c5dc8605a6e5030fd3ea55c8"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-03-overview-start",
+   "image_path": "codeit-fs-15/images/30/fdce6f1d8076-google-oauth-03-overview-start.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/fdce6f1d8076-google-oauth-03-overview-start.png",
+   "bytes": 46842,
+   "sha1": "fdce6f1d8076844e9fdb466ccb3e65262be5ee34"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-04-wizard-app-info",
+   "image_path": "codeit-fs-15/images/30/5812a65b0ec0-google-oauth-04-wizard-app-info.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/5812a65b0ec0-google-oauth-04-wizard-app-info.png",
+   "bytes": 28376,
+   "sha1": "5812a65b0ec0630367d7e6fa527f8f6722d80ed9"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-05-wizard-audience",
+   "image_path": "codeit-fs-15/images/30/7e6202b9dc17-google-oauth-05-wizard-audience.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/7e6202b9dc17-google-oauth-05-wizard-audience.png",
+   "bytes": 57476,
+   "sha1": "7e6202b9dc17924f82ec24b7c62253c90911a706"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-06-wizard-contact",
+   "image_path": "codeit-fs-15/images/30/d8642fa08794-google-oauth-06-wizard-contact.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/d8642fa08794-google-oauth-06-wizard-contact.png",
+   "bytes": 24245,
+   "sha1": "d8642fa08794b78bab3dd8579a2e17a13b91abd3"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-07-wizard-finish",
+   "image_path": "codeit-fs-15/images/30/2399fbf65394-google-oauth-07-wizard-finish.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/2399fbf65394-google-oauth-07-wizard-finish.png",
+   "bytes": 20641,
+   "sha1": "2399fbf6539410ef03f66ebd5ef4bfb17e711dd7"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-08-audience-test-users",
+   "image_path": "codeit-fs-15/images/30/3d27fbe2528d-google-oauth-08-audience-test-users.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/3d27fbe2528d-google-oauth-08-audience-test-users.png",
+   "bytes": 75709,
+   "sha1": "3d27fbe2528d5735ed8c4bfe587488f5adb5a89f"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-09-add-test-user",
+   "image_path": "codeit-fs-15/images/30/9b2af0ed49c6-google-oauth-09-add-test-user.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/9b2af0ed49c6-google-oauth-09-add-test-user.png",
+   "bytes": 24041,
+   "sha1": "9b2af0ed49c62df95b01fb7468654d19afda22dd"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-10-data-access",
+   "image_path": "codeit-fs-15/images/30/54b2363e02ba-google-oauth-10-data-access.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/54b2363e02ba-google-oauth-10-data-access.png",
+   "bytes": 57656,
+   "sha1": "54b2363e02bac5b4a124a38f4986279831890888"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-11-scopes-select",
+   "image_path": "codeit-fs-15/images/30/1b5e469ca79f-google-oauth-11-scopes-select.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/1b5e469ca79f-google-oauth-11-scopes-select.png",
+   "bytes": 61528,
+   "sha1": "1b5e469ca79f4ce6aea77f0b0ada7cbf108200cf"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-12-scopes-saved",
+   "image_path": "codeit-fs-15/images/30/59d8a1117be2-google-oauth-12-scopes-saved.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/59d8a1117be2-google-oauth-12-scopes-saved.png",
+   "bytes": 54261,
+   "sha1": "59d8a1117be2ec5ffb5c500667cd3a7494c1cf83"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-13-clients",
+   "image_path": "codeit-fs-15/images/30/93d3f791ef57-google-oauth-13-clients.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/93d3f791ef57-google-oauth-13-clients.png",
+   "bytes": 43044,
+   "sha1": "93d3f791ef572b073729878eb4d03d0e871d0289"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-14-client-type-name",
+   "image_path": "codeit-fs-15/images/30/09a77f3461af-google-oauth-14-client-type-name.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/09a77f3461af-google-oauth-14-client-type-name.png",
+   "bytes": 45046,
+   "sha1": "09a77f3461afb32a466e47741116e6cbe477c3b2"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-15-client-uris",
+   "image_path": "codeit-fs-15/images/30/637c778589ac-google-oauth-15-client-uris.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/637c778589ac-google-oauth-15-client-uris.png",
+   "bytes": 38798,
+   "sha1": "637c778589ac57d6ee4f738f53d2b5138264984a"
+  },
+  {
+   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-16-client-created",
+   "image_path": "codeit-fs-15/images/30/f5d99242ee53-google-oauth-16-client-created.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/f5d99242ee53-google-oauth-16-client-created.png",
+   "bytes": 49455,
+   "sha1": "f5d99242ee533ab9cb9754ca75756873862c0297"
   }
  ]
 }
