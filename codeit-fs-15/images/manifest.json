@@ -1,7 +1,7 @@
 {
  "repository": "winverse/codeit-fs",
  "source_repository": "winverse/codeit-fs-15",
- "generated_at": "2026-10-05T16:56:07.000Z",
+ "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
  "count": 1559,
@@ -10864,11 +10864,11 @@
    "sha1": "54b2363e02bac5b4a124a38f4986279831890888"
   },
   {
-   "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-11-scopes-select",
-   "image_path": "codeit-fs-15/images/30/1b5e469ca79f-google-oauth-11-scopes-select.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/1b5e469ca79f-google-oauth-11-scopes-select.png",
-   "bytes": 61528,
-   "sha1": "1b5e469ca79f4ce6aea77f0b0ada7cbf108200cf"
+   "source_path": "capture://console.cloud.google.com@2026-10-06/google-oauth-11-scopes-select",
+   "image_path": "codeit-fs-15/images/30/1575ba609390-google-oauth-11-scopes-select.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/1575ba609390-google-oauth-11-scopes-select.png",
+   "bytes": 173598,
+   "sha1": "1575ba609390593b71bd1d6a2b36bbb871470058"
   },
   {
    "source_path": "capture://console.cloud.google.com@2026-10-05/google-oauth-12-scopes-saved",
