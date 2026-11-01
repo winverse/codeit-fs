@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1559,
+ "count": 1560,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -10918,6 +10918,13 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/30/12dce02adde1-nextjs-user-auth-logged-in-me.png",
    "bytes": 119151,
    "sha1": "12dce02adde1a2583890a6874a1c2d74d9d3252c"
+  },
+  {
+   "source_path": "capture://codeit-fs-nextjs-typescript-booklog-starter@2026-11-02/booklog-home",
+   "image_path": "codeit-fs-15/images/38-1/9814dc51cb2f-booklog-home.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/38-1/9814dc51cb2f-booklog-home.png",
+   "bytes": 41860,
+   "sha1": "9814dc51cb2ff60ad68bc0f7a57270771e8ecd3e"
   }
  ]
 }
