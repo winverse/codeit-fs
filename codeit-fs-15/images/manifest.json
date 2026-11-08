@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1582,
+ "count": 1592,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11079,6 +11079,76 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/38/73c5d99a4cb1-1-01-completed-trips.png",
    "bytes": 37941,
    "sha1": "73c5d99a4cb1390744c7c13c9b74fd67bb5a4e09"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-05/삽화/2-03 @types-node가 필요한 이유.png",
+   "image_path": "codeit-fs-15/images/36/76640d1def2d-2-03-why-types-node.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/76640d1def2d-2-03-why-types-node.png",
+   "bytes": 473970,
+   "sha1": "76640d1def2df52a5a7773eef534d068757cb3b6"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-05/삽화/2-14 외부 데이터의 값이 정해지는 때.png",
+   "image_path": "codeit-fs-15/images/36/7a5aab143048-2-14-external-data-value-timing.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/7a5aab143048-2-14-external-data-value-timing.png",
+   "bytes": 513232,
+   "sha1": "7a5aab143048906d9eff2a84b3fcdeb9a7cfa605"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-06/삽화/1-01 오류를 확인하는 시점.png",
+   "image_path": "codeit-fs-15/images/36/5f52e2c756c7-1-01-when-errors-are-found.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/5f52e2c756c7-1-01-when-errors-are-found.png",
+   "bytes": 350631,
+   "sha1": "5f52e2c756c77e662f833f21fefbbe55a0f0087f"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-06/삽화/2-01 TypeScript 코드가 실행되는 과정.png",
+   "image_path": "codeit-fs-15/images/36/ea46b41097d8-2-01-typescript-run-process.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/ea46b41097d8-2-01-typescript-run-process.png",
+   "bytes": 262285,
+   "sha1": "ea46b41097d863101436409672da35db27d0f46c"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-06/삽화/2-04 타입을 정하는 두 가지 방법.png",
+   "image_path": "codeit-fs-15/images/36/793cda328306-2-04-two-ways-to-set-types.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/793cda328306-2-04-two-ways-to-set-types.png",
+   "bytes": 240648,
+   "sha1": "793cda328306d8fb4fa26a5860907018eecc50ce"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-06/삽화/2-18 함수 시그니처.png",
+   "image_path": "codeit-fs-15/images/36/2e7db3aa368e-2-18-function-signature.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/2e7db3aa368e-2-18-function-signature.png",
+   "bytes": 163213,
+   "sha1": "2e7db3aa368e3f087a35fc53692fff23a5ed0cd1"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-06/삽화/3-01 일반 문자열과 Enum.png",
+   "image_path": "codeit-fs-15/images/36/519612b50ba7-3-01-string-vs-enum.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/519612b50ba7-3-01-string-vs-enum.png",
+   "bytes": 210893,
+   "sha1": "519612b50ba731d990bf35cfacbda03dd79843c9"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-06/삽화/3-04 Interface가 없을 때와 사용할 때.png",
+   "image_path": "codeit-fs-15/images/36/16bbe17ff9d2-3-04-without-and-with-interface.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/16bbe17ff9d2-3-04-without-and-with-interface.png",
+   "bytes": 425522,
+   "sha1": "16bbe17ff9d209e47b6bdf25b8c835888563ec3f"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-06/삽화/3-12 Union 타입의 프로퍼티 접근.png",
+   "image_path": "codeit-fs-15/images/36/5cb0003d42f0-3-12-union-property-access.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/5cb0003d42f0-3-12-union-property-access.png",
+   "bytes": 265732,
+   "sha1": "5cb0003d42f0dfe2352200044338bb0f77af2f43"
+  },
+  {
+   "source_path": "courses/37.TypeScript 기본/검증/2026-11-06/삽화/3-15 Union과 Intersection.png",
+   "image_path": "codeit-fs-15/images/36/375698f5cc2f-3-15-union-vs-intersection.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/36/375698f5cc2f-3-15-union-vs-intersection.png",
+   "bytes": 210877,
+   "sha1": "375698f5cc2f5a32a2a59eea447fbe122a8a1b60"
   }
  ]
 }
