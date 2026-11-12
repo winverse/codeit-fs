@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1593,
+ "count": 1599,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11156,6 +11156,48 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/d6e436f22fbd-gocamping-00-login-icon.png",
    "bytes": 4531,
    "sha1": "d6e436f22fbd3022a3c687678c91f7c5b9e53559"
+  },
+  {
+   "source_path": "courses/38.Express에 Typescript 적용하기/검증/2026-11-12/미리보기-캡처/1-04-preview-01-campsite-list.png",
+   "image_path": "codeit-fs-15/images/39/e1e7f5439f58-1-04-preview-01-campsite-list.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/e1e7f5439f58-1-04-preview-01-campsite-list.png",
+   "bytes": 459661,
+   "sha1": "e1e7f5439f5893ebf2d3fbc8def56b0aaaf0ce13"
+  },
+  {
+   "source_path": "courses/38.Express에 Typescript 적용하기/검증/2026-11-12/미리보기-캡처/1-04-preview-02-campsite-detail.png",
+   "image_path": "codeit-fs-15/images/39/98113b78768d-1-04-preview-02-campsite-detail.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/98113b78768d-1-04-preview-02-campsite-detail.png",
+   "bytes": 621841,
+   "sha1": "98113b78768ded7d6dee6ed971a08836c0f327a7"
+  },
+  {
+   "source_path": "courses/38.Express에 Typescript 적용하기/검증/2026-11-12/미리보기-캡처/1-04-preview-03-trip-added.png",
+   "image_path": "codeit-fs-15/images/39/232e3696676c-1-04-preview-03-trip-added.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/232e3696676c-1-04-preview-03-trip-added.png",
+   "bytes": 37073,
+   "sha1": "232e3696676cd7c8eb3b7417fbd92108161bb738"
+  },
+  {
+   "source_path": "courses/38.Express에 Typescript 적용하기/검증/2026-11-12/미리보기-캡처/1-04-preview-04-trip-rated.png",
+   "image_path": "codeit-fs-15/images/39/fad4656aa7b7-1-04-preview-04-trip-rated.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/fad4656aa7b7-1-04-preview-04-trip-rated.png",
+   "bytes": 35350,
+   "sha1": "fad4656aa7b7a699b184f71674cef3241722e401"
+  },
+  {
+   "source_path": "courses/38.Express에 Typescript 적용하기/검증/2026-11-12/삽화/1-05 서버 코드 구조.png",
+   "image_path": "codeit-fs-15/images/39/a05ea73dcd0d-1-05-server-code-structure.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/a05ea73dcd0d-1-05-server-code-structure.png",
+   "bytes": 771307,
+   "sha1": "a05ea73dcd0d2b5fa3d833468e80baa414630589"
+  },
+  {
+   "source_path": "courses/38.Express에 Typescript 적용하기/검증/2026-11-12/삽화/2-01 @types-express가 필요한 이유.png",
+   "image_path": "codeit-fs-15/images/39/b025df0ac65a-2-01-why-types-express.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/b025df0ac65a-2-01-why-types-express.png",
+   "bytes": 340989,
+   "sha1": "b025df0ac65a0c8bf1c191fab9e5d14f9604de76"
   }
  ]
 }
