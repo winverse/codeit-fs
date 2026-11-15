@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1599,
+ "count": 1602,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11198,6 +11198,27 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/b025df0ac65a-2-01-why-types-express.png",
    "bytes": 340989,
    "sha1": "b025df0ac65a0c8bf1c191fab9e5d14f9604de76"
+  },
+  {
+   "source_path": "courses/39.Nextjs에 Typescript 적용하기/검증/2026-11-16/캡처/1-04-structure-01-campsite-list.png",
+   "image_path": "codeit-fs-15/images/39/73468e70eadc-1-04-structure-01-campsite-list.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/73468e70eadc-1-04-structure-01-campsite-list.png",
+   "bytes": 913050,
+   "sha1": "73468e70eadc625387a5c75e19b9f658890232d0"
+  },
+  {
+   "source_path": "courses/39.Nextjs에 Typescript 적용하기/검증/2026-11-16/캡처/1-04-structure-02-campsite-detail.png",
+   "image_path": "codeit-fs-15/images/39/25d1f3ef213f-1-04-structure-02-campsite-detail.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/25d1f3ef213f-1-04-structure-02-campsite-detail.png",
+   "bytes": 487766,
+   "sha1": "25d1f3ef213fc4a068fc8e7a27a091980e7d1e99"
+  },
+  {
+   "source_path": "courses/39.Nextjs에 Typescript 적용하기/검증/2026-11-16/캡처/1-04-structure-03-trips.png",
+   "image_path": "codeit-fs-15/images/39/abe42f034bd5-1-04-structure-03-trips.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/abe42f034bd5-1-04-structure-03-trips.png",
+   "bytes": 85404,
+   "sha1": "abe42f034bd5690fff48ceee5afc14464b219c07"
   }
  ]
 }
