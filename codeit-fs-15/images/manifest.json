@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1604,
+ "count": 1605,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11233,6 +11233,13 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/cb7db04c0cf6-2-01-why-types-express.png",
    "bytes": 264141,
    "sha1": "cb7db04c0cf6924326a00c9cead1ab87a10ad8d2"
+  },
+  {
+   "source_path": "courses/38.Express에 Typescript 적용하기/검증/2026-11-20/삽화/4-01 import type이 필요한 이유.png",
+   "image_path": "codeit-fs-15/images/39/783d6ed31793-4-01-why-import-type.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/783d6ed31793-4-01-why-import-type.png",
+   "bytes": 489032,
+   "sha1": "783d6ed317938829db437460453236a95ec24739"
   }
  ]
 }
