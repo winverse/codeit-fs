@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1610,
+ "count": 1611,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11275,6 +11275,13 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/0b42a276582f-4-01-why-import-type.png",
    "bytes": 951820,
    "sha1": "0b42a276582fb437de776cb5460eb0f36f935663"
+  },
+  {
+   "source_path": "courses/39.Nextjs에 Typescript 적용하기/검증/2026-11-05/삽화/1-01 값이 넘어가는 자리.png",
+   "image_path": "codeit-fs-15/images/38/71ccf1a0166c-1-01-value-handoffs.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/38/71ccf1a0166c-1-01-value-handoffs.png",
+   "bytes": 333390,
+   "sha1": "71ccf1a0166c12ac58d8a011044ce6e9e0ef6664"
   }
  ]
 }
