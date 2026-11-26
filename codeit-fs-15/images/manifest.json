@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39, 40",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1666,
+ "count": 1677,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11667,6 +11667,83 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/6a9068b4a68b-pulumi-login-01-cli-connected.png",
    "bytes": 60990,
    "sha1": "6a9068b4a68bc1c5a3e979fa508d07d396b91be7"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-iam-user-01-iam-users",
+   "image_path": "codeit-fs-15/images/40/d427be2a5dbe-aws-iam-user-01-iam-users.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/d427be2a5dbe-aws-iam-user-01-iam-users.png",
+   "bytes": 101840,
+   "sha1": "d427be2a5dbe4d5824b901516e2cd9096efdfc6b"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-iam-user-02-user-details",
+   "image_path": "codeit-fs-15/images/40/6843d39f549b-aws-iam-user-02-user-details.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/6843d39f549b-aws-iam-user-02-user-details.png",
+   "bytes": 158626,
+   "sha1": "6843d39f549b2cbd01e58a3d76b347fe6f7abfd2"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-iam-user-03-permissions-group",
+   "image_path": "codeit-fs-15/images/40/8efc0a0a1dbf-aws-iam-user-03-permissions-group.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/8efc0a0a1dbf-aws-iam-user-03-permissions-group.png",
+   "bytes": 102073,
+   "sha1": "8efc0a0a1dbfe027bd1dadeaed63f8877e9121ca"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-iam-user-04-create-group",
+   "image_path": "codeit-fs-15/images/40/54102ab071b5-aws-iam-user-04-create-group.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/54102ab071b5-aws-iam-user-04-create-group.png",
+   "bytes": 134227,
+   "sha1": "54102ab071b532396bbb108947cbb1b5fd834515"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-iam-user-05-select-group",
+   "image_path": "codeit-fs-15/images/40/bacfabada083-aws-iam-user-05-select-group.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/bacfabada083-aws-iam-user-05-select-group.png",
+   "bytes": 123340,
+   "sha1": "bacfabada08351f6230709ded590f87da91d2db3"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-iam-user-06-review-create",
+   "image_path": "codeit-fs-15/images/40/a9af3ba288ed-aws-iam-user-06-review-create.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/a9af3ba288ed-aws-iam-user-06-review-create.png",
+   "bytes": 109221,
+   "sha1": "a9af3ba288ed5f3b3cb3568ad6bb4838df4c88a3"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-iam-user-07-user-created",
+   "image_path": "codeit-fs-15/images/40/28f7a600e9a9-aws-iam-user-07-user-created.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/28f7a600e9a9-aws-iam-user-07-user-created.png",
+   "bytes": 99497,
+   "sha1": "28f7a600e9a9b3f9c9a5f7474fe798a02ee10059"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-login-04-mfa-code",
+   "image_path": "codeit-fs-15/images/40/6c71cb151e47-aws-login-04-mfa-code.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/6c71cb151e47-aws-login-04-mfa-code.png",
+   "bytes": 222136,
+   "sha1": "6c71cb151e474f1c9cd59468666fb5386bfbe4d4"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-login-05-continue-active-session",
+   "image_path": "codeit-fs-15/images/40/a9052268295f-aws-login-05-continue-active-session.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/a9052268295f-aws-login-05-continue-active-session.png",
+   "bytes": 69290,
+   "sha1": "a9052268295f4b5ca94e6b8b1dc58bdf672ef373"
+  },
+  {
+   "source_path": "references/raw/notion/36.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/스크린샷_2026-04-03_14.37.26.png#masked-2026-11-27",
+   "image_path": "codeit-fs-15/images/40/82964f31b655-aws-original-037-masked.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/82964f31b655-aws-original-037-masked.png",
+   "bytes": 602157,
+   "sha1": "82964f31b6559c2c024e4a54d304a817962ea37b"
+  },
+  {
+   "source_path": "references/raw/notion/36.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/스크린샷_2026-04-03_15.47.40.png#masked-2026-11-27",
+   "image_path": "codeit-fs-15/images/40/539bc2326df2-aws-original-042-masked.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/539bc2326df2-aws-original-042-masked.png",
+   "bytes": 420413,
+   "sha1": "539bc2326df22b56aabe5f2a487fd3ee15bfe03b"
   }
  ]
 }
