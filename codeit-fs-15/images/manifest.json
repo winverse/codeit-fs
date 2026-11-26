@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39, 40",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1638,
+ "count": 1651,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11471,6 +11471,97 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/068664ef71c8-pulumi-signup-06-dashboard.png",
    "bytes": 148670,
    "sha1": "068664ef71c82fef031ef10b1f68ce744011e7d0"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-01-budgets-overview",
+   "image_path": "codeit-fs-15/images/40/f4c34d2e9ac0-aws-budget-01-budgets-overview.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f4c34d2e9ac0-aws-budget-01-budgets-overview.png",
+   "bytes": 98914,
+   "sha1": "f4c34d2e9ac078b79205d593aa1319e6851e4734"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-02-budget-type",
+   "image_path": "codeit-fs-15/images/40/fc645e9ca103-aws-budget-02-budget-type.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/fc645e9ca103-aws-budget-02-budget-type.png",
+   "bytes": 227354,
+   "sha1": "fc645e9ca103abda74c4dae66197672f223dbf09"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-03-budget-name-amount",
+   "image_path": "codeit-fs-15/images/40/6831e3ac9845-aws-budget-03-budget-name-amount.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/6831e3ac9845-aws-budget-03-budget-name-amount.png",
+   "bytes": 179790,
+   "sha1": "6831e3ac9845603081adf4f24447e68c0d0cf6cf"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-04-budget-scope-next",
+   "image_path": "codeit-fs-15/images/40/43ebcc644bb3-aws-budget-04-budget-scope-next.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/43ebcc644bb3-aws-budget-04-budget-scope-next.png",
+   "bytes": 184078,
+   "sha1": "43ebcc644bb3dd8605443c72c5d56543ab213938"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-05-alerts-empty",
+   "image_path": "codeit-fs-15/images/40/765206c31903-aws-budget-05-alerts-empty.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/765206c31903-aws-budget-05-alerts-empty.png",
+   "bytes": 147673,
+   "sha1": "765206c319031ed57b647dc304f5c8f8fc4a6271"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-06-alerts-1-2",
+   "image_path": "codeit-fs-15/images/40/09a40d3d659f-aws-budget-06-alerts-1-2.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/09a40d3d659f-aws-budget-06-alerts-1-2.png",
+   "bytes": 156655,
+   "sha1": "09a40d3d659fcc87b41aab4684a281dfd6dcdbfa"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-07-alerts-2-3-next",
+   "image_path": "codeit-fs-15/images/40/f05a08f06437-aws-budget-07-alerts-2-3-next.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f05a08f06437-aws-budget-07-alerts-2-3-next.png",
+   "bytes": 149368,
+   "sha1": "f05a08f06437caef3c85dd3c2df6efecc1da455c"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-08-actions-skip",
+   "image_path": "codeit-fs-15/images/40/b8b2702e745a-aws-budget-08-actions-skip.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/b8b2702e745a-aws-budget-08-actions-skip.png",
+   "bytes": 178460,
+   "sha1": "b8b2702e745a58c37e53e96c61e60112d4c569c9"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-09-review-top",
+   "image_path": "codeit-fs-15/images/40/ff8d93cde89d-aws-budget-09-review-top.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/ff8d93cde89d-aws-budget-09-review-top.png",
+   "bytes": 141352,
+   "sha1": "ff8d93cde89d640a15bba6b50adaeab14bccc758"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-10-review-create",
+   "image_path": "codeit-fs-15/images/40/6c79b41878a3-aws-budget-10-review-create.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/6c79b41878a3-aws-budget-10-review-create.png",
+   "bytes": 129757,
+   "sha1": "6c79b41878a39ce1cb805571221fc3f9605b295a"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-11-budget-created",
+   "image_path": "codeit-fs-15/images/40/b56b06810862-aws-budget-11-budget-created.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/b56b06810862-aws-budget-11-budget-created.png",
+   "bytes": 119470,
+   "sha1": "b56b06810862742edacf7ddad178c90ca61673ca"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-budget-12-email-verification-pending",
+   "image_path": "codeit-fs-15/images/40/f04f4684befe-aws-budget-12-email-verification-pending.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f04f4684befe-aws-budget-12-email-verification-pending.png",
+   "bytes": 167735,
+   "sha1": "f04f4684befe4d68af25659523cc467a50032306"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/aws-budget-13-email-verified",
+   "image_path": "codeit-fs-15/images/40/e9118acbc3a6-aws-budget-13-email-verified.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/e9118acbc3a6-aws-budget-13-email-verified.png",
+   "bytes": 158760,
+   "sha1": "e9118acbc3a633ed40c0e0158b9c0e83dbf841d4"
   }
  ]
 }
