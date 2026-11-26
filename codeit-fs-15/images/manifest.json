@@ -2,9 +2,9 @@
  "repository": "winverse/codeit-fs",
  "source_repository": "winverse/codeit-fs-15",
  "generated_at": "2026-10-06T08:33:18.000Z",
- "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39",
+ "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39, 40",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1613,
+ "count": 1638,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11296,6 +11296,181 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/39/fd3b78b2002c-2-01-why-types-node.png",
    "bytes": 407904,
    "sha1": "fd3b78b2002ca65c6198860515a6a0c8e7bd0619"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-01-signup-start",
+   "image_path": "codeit-fs-15/images/40/56c6879ab3f7-aws-signup-01-signup-start.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/56c6879ab3f7-aws-signup-01-signup-start.png",
+   "bytes": 215172,
+   "sha1": "56c6879ab3f78bcd09facf6ffa5d55f3d2824eba"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-02-email-account-name",
+   "image_path": "codeit-fs-15/images/40/18d8c4305c2b-aws-signup-02-email-account-name.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/18d8c4305c2b-aws-signup-02-email-account-name.png",
+   "bytes": 218138,
+   "sha1": "18d8c4305c2b9d83017c38ce2901874d7fac52e3"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-03-email-verification",
+   "image_path": "codeit-fs-15/images/40/06ecac7a8a0e-aws-signup-03-email-verification.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/06ecac7a8a0e-aws-signup-03-email-verification.png",
+   "bytes": 192395,
+   "sha1": "06ecac7a8a0e65ce0014ab5d5c8b0a5a5c20320f"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-04-root-password",
+   "image_path": "codeit-fs-15/images/40/fb81bfdd618d-aws-signup-04-root-password.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/fb81bfdd618d-aws-signup-04-root-password.png",
+   "bytes": 185096,
+   "sha1": "fb81bfdd618da996687febae67ed41db558525ba"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-05-account-plan",
+   "image_path": "codeit-fs-15/images/40/027853f8f3bf-aws-signup-05-account-plan.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/027853f8f3bf-aws-signup-05-account-plan.png",
+   "bytes": 203876,
+   "sha1": "027853f8f3bf31a9676c322a6a8984afd0b1d468"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-06-account-plan-details",
+   "image_path": "codeit-fs-15/images/40/f3f2c652ce77-aws-signup-06-account-plan-details.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f3f2c652ce77-aws-signup-06-account-plan-details.png",
+   "bytes": 173654,
+   "sha1": "f3f2c652ce771bd194d10ca945a745f01389f6b6"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-07-contact-information",
+   "image_path": "codeit-fs-15/images/40/749f684ed002-aws-signup-07-contact-information.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/749f684ed002-aws-signup-07-contact-information.png",
+   "bytes": 130791,
+   "sha1": "749f684ed002755df2613c6a79faec2ff6058ab0"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-08-billing-information",
+   "image_path": "codeit-fs-15/images/40/10d3aed23b0e-aws-signup-08-billing-information.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/10d3aed23b0e-aws-signup-08-billing-information.png",
+   "bytes": 144411,
+   "sha1": "10d3aed23b0edbb06d06ccf933744c650fd1fb57"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-09-payment-verification",
+   "image_path": "codeit-fs-15/images/40/4eaf6ca3b8b7-aws-signup-09-payment-verification.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/4eaf6ca3b8b7-aws-signup-09-payment-verification.png",
+   "bytes": 191995,
+   "sha1": "4eaf6ca3b8b765dc3024d4ba46ba2055cb2db73d"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-10-credit-ineligibility",
+   "image_path": "codeit-fs-15/images/40/c9e26192b86c-aws-signup-10-credit-ineligibility.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/c9e26192b86c-aws-signup-10-credit-ineligibility.png",
+   "bytes": 209435,
+   "sha1": "c9e26192b86c6bffbcaf499abac5135e71a49051"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-11-support-plan",
+   "image_path": "codeit-fs-15/images/40/5e2384591c84-aws-signup-11-support-plan.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/5e2384591c84-aws-signup-11-support-plan.png",
+   "bytes": 223427,
+   "sha1": "5e2384591c84bb42e99593c53a17d085260faf42"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signup-12-registration-confirmation",
+   "image_path": "codeit-fs-15/images/40/d52dc76d9d19-aws-signup-12-registration-confirmation.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/d52dc76d9d19-aws-signup-12-registration-confirmation.png",
+   "bytes": 319643,
+   "sha1": "d52dc76d9d19c101dfd96661378877fbce9bd9e8"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signin-mfa-01-signin-iam-default",
+   "image_path": "codeit-fs-15/images/40/2a9c4a7f979f-aws-signin-mfa-01-signin-iam-default.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/2a9c4a7f979f-aws-signin-mfa-01-signin-iam-default.png",
+   "bytes": 313151,
+   "sha1": "2a9c4a7f979f7591f8ffca643dd0c98777ced942"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signin-mfa-02-signin-root",
+   "image_path": "codeit-fs-15/images/40/e90457c478cf-aws-signin-mfa-02-signin-root.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/e90457c478cf-aws-signin-mfa-02-signin-root.png",
+   "bytes": 297010,
+   "sha1": "e90457c478cf9e9d377c676fc118d4f33ddf9067"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signin-mfa-03-signin-root-password",
+   "image_path": "codeit-fs-15/images/40/39f13f7ce2ba-aws-signin-mfa-03-signin-root-password.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/39f13f7ce2ba-aws-signin-mfa-03-signin-root-password.png",
+   "bytes": 266162,
+   "sha1": "39f13f7ce2ba83e22625857e30e1813ed4ada329"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signin-mfa-04-signin-root-email-verification",
+   "image_path": "codeit-fs-15/images/40/4c99ed10185e-aws-signin-mfa-04-signin-root-email-verification.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/4c99ed10185e-aws-signin-mfa-04-signin-root-email-verification.png",
+   "bytes": 282655,
+   "sha1": "4c99ed10185e416514c78a2bd3110342fd9fe36b"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signin-mfa-05-mfa-registration-options",
+   "image_path": "codeit-fs-15/images/40/a1eb5d2d43fd-aws-signin-mfa-05-mfa-registration-options.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/a1eb5d2d43fd-aws-signin-mfa-05-mfa-registration-options.png",
+   "bytes": 154556,
+   "sha1": "a1eb5d2d43fd6cd6cf14dcbe23c88bf2a31e8dd9"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signin-mfa-06-mfa-authenticator-selected",
+   "image_path": "codeit-fs-15/images/40/4791e9127877-aws-signin-mfa-06-mfa-authenticator-selected.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/4791e9127877-aws-signin-mfa-06-mfa-authenticator-selected.png",
+   "bytes": 154603,
+   "sha1": "4791e91278774a3bd9a8ec8a03c9b979e771ec4e"
+  },
+  {
+   "source_path": "capture://signin.aws.amazon.com@2026-11-26/aws-signin-mfa-07-mfa-authenticator-setup",
+   "image_path": "codeit-fs-15/images/40/56fbfd2ccfb9-aws-signin-mfa-07-mfa-authenticator-setup.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/56fbfd2ccfb9-aws-signin-mfa-07-mfa-authenticator-setup.png",
+   "bytes": 135558,
+   "sha1": "56fbfd2ccfb9d5f4b10f9196449204d2776dcb06"
+  },
+  {
+   "source_path": "capture://www.pulumi.com@2026-11-26/pulumi-signup-01-pulumi-home",
+   "image_path": "codeit-fs-15/images/40/44670f7bc5f5-pulumi-signup-01-pulumi-home.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/44670f7bc5f5-pulumi-signup-01-pulumi-home.png",
+   "bytes": 143416,
+   "sha1": "44670f7bc5f51ef7eebdc9a034615d042e9c57c7"
+  },
+  {
+   "source_path": "capture://app.pulumi.com@2026-11-26/pulumi-signup-02-signup",
+   "image_path": "codeit-fs-15/images/40/12c9bd9557dc-pulumi-signup-02-signup.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/12c9bd9557dc-pulumi-signup-02-signup.png",
+   "bytes": 61051,
+   "sha1": "12c9bd9557dc4c217a98973dad95f61b6dce541f"
+  },
+  {
+   "source_path": "capture://accounts.google.com@2026-11-26/pulumi-signup-03-google-account-chooser",
+   "image_path": "codeit-fs-15/images/40/0fd7d33dba9b-pulumi-signup-03-google-account-chooser.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/0fd7d33dba9b-pulumi-signup-03-google-account-chooser.png",
+   "bytes": 59073,
+   "sha1": "0fd7d33dba9bf4bff838e05d39c6eb1794d3d6b6"
+  },
+  {
+   "source_path": "capture://accounts.google.com@2026-11-26/pulumi-signup-04-google-consent",
+   "image_path": "codeit-fs-15/images/40/ba521ec34991-pulumi-signup-04-google-consent.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/ba521ec34991-pulumi-signup-04-google-consent.png",
+   "bytes": 81103,
+   "sha1": "ba521ec3499196e2cbb5c8fb42f740803472eba3"
+  },
+  {
+   "source_path": "capture://app.pulumi.com@2026-11-26/pulumi-signup-05-welcome-usage",
+   "image_path": "codeit-fs-15/images/40/418e990af3c4-pulumi-signup-05-welcome-usage.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/418e990af3c4-pulumi-signup-05-welcome-usage.png",
+   "bytes": 38573,
+   "sha1": "418e990af3c4de2672419f68d3e556350fc02aaa"
+  },
+  {
+   "source_path": "capture://app.pulumi.com@2026-11-26/pulumi-signup-06-dashboard",
+   "image_path": "codeit-fs-15/images/40/068664ef71c8-pulumi-signup-06-dashboard.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/068664ef71c8-pulumi-signup-06-dashboard.png",
+   "bytes": 148670,
+   "sha1": "068664ef71c82fef031ef10b1f68ce744011e7d0"
   }
  ]
 }
