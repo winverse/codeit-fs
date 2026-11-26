@@ -10234,13 +10234,6 @@
    "sha1": "7db328ad56f1379c5dcd11edd8ce6200f9a2ff75"
   },
   {
-   "source_path": "references/raw/notion/36.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/스크린샷_2026-04-15_16.19.54.png",
-   "image_path": "codeit-fs-15/images/38/7dd884cb9c4d-aws-original-113.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/38/7dd884cb9c4d-aws-original-113.png",
-   "bytes": 69409,
-   "sha1": "7dd884cb9c4deae5ac7a44481c3bda7b540bbe86"
-  },
-  {
    "source_path": "references/raw/notion/36.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/스크린샷_2026-04-15_18.10.27.png",
    "image_path": "codeit-fs-15/images/38/7f4e14e68c7a-aws-original-123.png",
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/38/7f4e14e68c7a-aws-original-123.png",
@@ -11723,6 +11716,13 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/539bc2326df2-aws-original-042-masked.png",
    "bytes": 420413,
    "sha1": "539bc2326df22b56aabe5f2a487fd3ee15bfe03b"
+  },
+  {
+   "source_path": "references/raw/notion/36.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/스크린샷_2026-04-15_16.19.54.png",
+   "image_path": "codeit-fs-15/images/40/546e70f4448b-aws-original-113-masked.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/546e70f4448b-aws-original-113-masked.png",
+   "bytes": 60107,
+   "sha1": "546e70f4448bf6b3be73b3659d8e0d1b86986f8d"
   }
  ]
 }
