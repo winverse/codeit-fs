@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39, 40",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1709,
+ "count": 1711,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11968,6 +11968,20 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/36f57d72a7aa-1-10-aws-certification-levels.png",
    "bytes": 327516,
    "sha1": "36f57d72a7aacd8cca8a37bb2956f507c94fb455"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/5-03 AMI에서 고르는 운영체제.png",
+   "image_path": "codeit-fs-15/images/40/eed5b809fd72-5-03-os-choices-in-ami.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/eed5b809fd72-5-03-os-choices-in-ami.png",
+   "bytes": 193387,
+   "sha1": "eed5b809fd72180435dc18b7267697cd8f02665a"
+  },
+  {
+   "source_path": "references/raw/notion/36.클라우드와 AWS 기본기/36 클라우드와 AWS 기본기/스크린샷_2026-04-15_14.29.08.png",
+   "image_path": "codeit-fs-15/images/40/583b8e8ed8a3-5-09-account-menu-masked.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/583b8e8ed8a3-5-09-account-menu-masked.png",
+   "bytes": 62555,
+   "sha1": "583b8e8ed8a3a68557487b657ae04fef98b61761"
   }
  ]
 }
