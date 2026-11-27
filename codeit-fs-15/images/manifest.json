@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39, 40",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1674,
+ "count": 1709,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11723,6 +11723,251 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/546e70f4448b-aws-original-113-masked.png",
    "bytes": 60107,
    "sha1": "546e70f4448bf6b3be73b3659d8e0d1b86986f8d"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-03a 온프레미스에서 서버를 늘릴 때.png",
+   "image_path": "codeit-fs-15/images/40/f3357884c0de-1-03a-onprem-scaling-servers.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f3357884c0de-1-03a-onprem-scaling-servers.png",
+   "bytes": 546367,
+   "sha1": "f3357884c0de6658ce35a7dca7c0f1eddf8d5baa"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-03b 온프레미스 구조.png",
+   "image_path": "codeit-fs-15/images/40/80aa66d3bf63-1-03b-onprem-structure.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/80aa66d3bf63-1-03b-onprem-structure.png",
+   "bytes": 426139,
+   "sha1": "80aa66d3bf635482fd22bc3c3affd89e37a1eae9"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-03c 클라우드 구조.png",
+   "image_path": "codeit-fs-15/images/40/1e5f639f53f0-1-03c-cloud-structure.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/1e5f639f53f0-1-03c-cloud-structure.png",
+   "bytes": 416718,
+   "sha1": "1e5f639f53f0189128f8730b5d8c51e96b04462a"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-03d 하이브리드 클라우드.png",
+   "image_path": "codeit-fs-15/images/40/52df799d1315-1-03d-hybrid-cloud.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/52df799d1315-1-03d-hybrid-cloud.png",
+   "bytes": 517303,
+   "sha1": "52df799d1315ffc37f5e2ef4b4472affe3e2139b"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-05a 여러 권역에 있는 리전.png",
+   "image_path": "codeit-fs-15/images/40/858c217d3324-1-05a-regions-in-separate-areas.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/858c217d3324-1-05a-regions-in-separate-areas.png",
+   "bytes": 426802,
+   "sha1": "858c217d332401281b0e4c958c69256942d9808d"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-05b 서울 리전 안의 여러 AZ.png",
+   "image_path": "codeit-fs-15/images/40/76a95115e3f7-1-05b-azs-in-seoul-region.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/76a95115e3f7-1-05b-azs-in-seoul-region.png",
+   "bytes": 173691,
+   "sha1": "76a95115e3f7a630ee336a58183692974412e89c"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-05c Edge Location에서 콘텐츠 전달.png",
+   "image_path": "codeit-fs-15/images/40/f2e343d39b83-1-05c-edge-location-delivery.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f2e343d39b83-1-05c-edge-location-delivery.png",
+   "bytes": 367599,
+   "sha1": "f2e343d39b838271fc00549b72784a1f7fbf8b4f"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-07a 가용성이 낮은 구조와 높은 구조.png",
+   "image_path": "codeit-fs-15/images/40/f5ba3f0111ae-1-07a-low-vs-high-availability.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f5ba3f0111ae-1-07a-low-vs-high-availability.png",
+   "bytes": 224376,
+   "sha1": "f5ba3f0111ae677659861a61136b796aa65bfb6a"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-07b 신뢰성을 이루는 세 가지.png",
+   "image_path": "codeit-fs-15/images/40/043373bc040d-1-07b-three-parts-of-reliability.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/043373bc040d-1-07b-three-parts-of-reliability.png",
+   "bytes": 376402,
+   "sha1": "043373bc040db5232a321744d3aee9a7849e4ae0"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-07c 중복 자원의 자동 인계.png",
+   "image_path": "codeit-fs-15/images/40/a1122ae84614-1-07c-automatic-failover-redundancy.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/a1122ae84614-1-07c-automatic-failover-redundancy.png",
+   "bytes": 262498,
+   "sha1": "a1122ae8461408b90c7b75253afb3a2f2c8bdc7f"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-07d 부하에 따른 자동 확장과 축소.png",
+   "image_path": "codeit-fs-15/images/40/4975b945e5eb-1-07d-auto-scaling-out-and-in.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/4975b945e5eb-1-07d-auto-scaling-out-and-in.png",
+   "bytes": 733270,
+   "sha1": "4975b945e5eb330212e7b51430743e5a31ca2bf5"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-01a 프로토콜이 다를 때와 같을 때.png",
+   "image_path": "codeit-fs-15/images/40/f49c942f1747-2-01a-different-vs-same-protocol.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f49c942f1747-2-01a-different-vs-same-protocol.png",
+   "bytes": 169412,
+   "sha1": "f49c942f174762443153083977fc8c3e80a00ac3"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-01b IPv4 주소와 옥텟.png",
+   "image_path": "codeit-fs-15/images/40/ef650200efbf-2-01b-ipv4-address-octets.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/ef650200efbf-2-01b-ipv4-address-octets.png",
+   "bytes": 217600,
+   "sha1": "ef650200efbfcbe7177028a4648cd5ae01c98088"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-03a VPC와 리소스 구획.png",
+   "image_path": "codeit-fs-15/images/40/91487fe61b64-2-03a-vpc-resource-zones.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/91487fe61b64-2-03a-vpc-resource-zones.png",
+   "bytes": 304811,
+   "sha1": "91487fe61b64667ad7e42a4ea65ef845664bdc7e"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-03b 퍼블릭 서브넷과 프라이빗 서브넷.png",
+   "image_path": "codeit-fs-15/images/40/89a40ae327a5-2-03b-public-vs-private-subnet.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/89a40ae327a5-2-03b-public-vs-private-subnet.png",
+   "bytes": 499470,
+   "sha1": "89a40ae327a5c005679c7a55a8d49bc49e43d6a0"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-03c 가용 영역마다 놓인 서브넷.png",
+   "image_path": "codeit-fs-15/images/40/164830847422-2-03c-subnets-per-az.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/164830847422-2-03c-subnets-per-az.png",
+   "bytes": 313121,
+   "sha1": "1648308474225db16e1f2bb12f89fa5e1c8c6488"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-04a 인터넷 게이트웨이와 기본 경로.png",
+   "image_path": "codeit-fs-15/images/40/79cd79d1b6ef-2-04a-internet-gateway-default-route.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/79cd79d1b6ef-2-04a-internet-gateway-default-route.png",
+   "bytes": 239522,
+   "sha1": "79cd79d1b6efdb7b62873998eda030c974d53394"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-04b NAT 게이트웨이로 나가는 요청.png",
+   "image_path": "codeit-fs-15/images/40/7f4379c0ef34-2-04b-nat-gateway-outbound.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/7f4379c0ef34-2-04b-nat-gateway-outbound.png",
+   "bytes": 243757,
+   "sha1": "7f4379c0ef34af7bc6d43b23d70c6a055a9d3ba7"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-04c 서브넷과 라우팅 테이블 연결.png",
+   "image_path": "codeit-fs-15/images/40/9b56714e960c-2-04c-subnet-route-table-association.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/9b56714e960c-2-04c-subnet-route-table-association.png",
+   "bytes": 272739,
+   "sha1": "9b56714e960cc74866865a3f702869402d9559ce"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-05a 보안 그룹이 허용한 접속.png",
+   "image_path": "codeit-fs-15/images/40/eabb00baf2dc-2-05a-security-group-allowed-access.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/eabb00baf2dc-2-05a-security-group-allowed-access.png",
+   "bytes": 156337,
+   "sha1": "eabb00baf2dc7e3d8c886adddd8fcbb732ad8345"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-05b 인바운드 규칙과 아웃바운드 규칙.png",
+   "image_path": "codeit-fs-15/images/40/6f3900f1a2fb-2-05b-inbound-outbound-rules.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/6f3900f1a2fb-2-05b-inbound-outbound-rules.png",
+   "bytes": 197827,
+   "sha1": "6f3900f1a2fb16d15697abc4efb4d78d98bf68b4"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/3-01 IAM이 사용자마다 권한을 나누는 방식.png",
+   "image_path": "codeit-fs-15/images/40/8ce51257c3d6-3-01-iam-per-user-permissions.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/8ce51257c3d6-3-01-iam-per-user-permissions.png",
+   "bytes": 185758,
+   "sha1": "8ce51257c3d64e0e295765ac1750ad0702692146"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/3-02 IAM이 작동하는 웹 서비스 구조.png",
+   "image_path": "codeit-fs-15/images/40/47af3d8edd7d-3-02-iam-in-web-service-architecture.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/47af3d8edd7d-3-02-iam-in-web-service-architecture.png",
+   "bytes": 425120,
+   "sha1": "47af3d8edd7dfe94be9d3858572f5b8b4409cbf6"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/3-03a 루트 사용자와 IAM 사용자.png",
+   "image_path": "codeit-fs-15/images/40/7c8ff0fcf160-3-03a-root-and-iam-users.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/7c8ff0fcf160-3-03a-root-and-iam-users.png",
+   "bytes": 504841,
+   "sha1": "7c8ff0fcf16042d57c15ad027384b8e8589dfa67"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/3-03b 그룹에 정책을 연결하는 방식.png",
+   "image_path": "codeit-fs-15/images/40/787b25926fee-3-03b-attach-policy-to-group.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/787b25926fee-3-03b-attach-policy-to-group.png",
+   "bytes": 360079,
+   "sha1": "787b25926fee254825ec9871274fbf7250b98a7b"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/4-01 AWS를 다루는 다섯 가지 방식.png",
+   "image_path": "codeit-fs-15/images/40/aa7f001cd840-4-01-five-ways-to-use-aws.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/aa7f001cd840-4-01-five-ways-to-use-aws.png",
+   "bytes": 196981,
+   "sha1": "aa7f001cd840d353ad33b35ca14baa507ea97f3a"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/5-02 EC2 실행 환경과 관리 책임.png",
+   "image_path": "codeit-fs-15/images/40/4456bf507f9c-5-02-ec2-environment-responsibility.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/4456bf507f9c-5-02-ec2-environment-responsibility.png",
+   "bytes": 449017,
+   "sha1": "4456bf507f9cfa0f8a9129963ddd66caad4e8396"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/5-04 인스턴스 스토어와 EBS.png",
+   "image_path": "codeit-fs-15/images/40/a3b4a7037654-5-04-instance-store-vs-ebs.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/a3b4a7037654-5-04-instance-store-vs-ebs.png",
+   "bytes": 183766,
+   "sha1": "a3b4a703765481295bf488474570daf3d0fde246"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/5-05 보안 그룹과 키 페어.png",
+   "image_path": "codeit-fs-15/images/40/f82d393311f2-5-05-security-group-and-key-pair.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f82d393311f2-5-05-security-group-and-key-pair.png",
+   "bytes": 474984,
+   "sha1": "f82d393311f2029ea983b10f724a62bf885816c8"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/5-06 인터넷을 통한 EC2 직접 접속.png",
+   "image_path": "codeit-fs-15/images/40/0d5aebf7cd78-5-06-direct-ec2-access-over-internet.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/0d5aebf7cd78-5-06-direct-ec2-access-over-internet.png",
+   "bytes": 332372,
+   "sha1": "0d5aebf7cd784b868aa4e9caaedf495a6646b2a9"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/6-04 EC2에서 프라이빗 RDS로 접속.png",
+   "image_path": "codeit-fs-15/images/40/33f049d6066d-6-04-ec2-to-private-rds.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/33f049d6066d-6-04-ec2-to-private-rds.png",
+   "bytes": 277423,
+   "sha1": "33f049d6066d69badabafacaa50a35b68f5d580f"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/7-03 S3 스토리지 클래스 고르기.png",
+   "image_path": "codeit-fs-15/images/40/7bb84c508551-7-03-choosing-s3-storage-class.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/7bb84c508551-7-03-choosing-s3-storage-class.png",
+   "bytes": 690968,
+   "sha1": "7bb84c5085512430b1e7c0d2a9f288a4742bef55"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-02a IPv4 주소 구조.png",
+   "image_path": "codeit-fs-15/images/40/47489950a71d-2-02a-ipv4-address-structure.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/47489950a71d-2-02a-ipv4-address-structure.png",
+   "bytes": 565096,
+   "sha1": "47489950a71d54b5a8fb91ba8041356dd87fefdb"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-02b 프리픽스 24와 25 비교.png",
+   "image_path": "codeit-fs-15/images/40/151e6fc4e2cf-2-02b-prefix-24-vs-25.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/151e6fc4e2cf-2-02b-prefix-24-vs-25.png",
+   "bytes": 707763,
+   "sha1": "151e6fc4e2cfa27a74ed7612396a974ecf153e4b"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-10 AWS 자격증 단계.png",
+   "image_path": "codeit-fs-15/images/40/36f57d72a7aa-1-10-aws-certification-levels.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/36f57d72a7aa-1-10-aws-certification-levels.png",
+   "bytes": 327516,
+   "sha1": "36f57d72a7aacd8cca8a37bb2956f507c94fb455"
   }
  ]
 }
