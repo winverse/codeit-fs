@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39, 40",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1718,
+ "count": 1721,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -12031,6 +12031,27 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/7b7d70734c42-5-06-sg-tags-cancel.png",
    "bytes": 32420,
    "sha1": "7b7d70734c426d0b079ebcada12b79fb72c1e52c"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/3-06-billing-access-edit",
+   "image_path": "codeit-fs-15/images/40/1f25b6d5c24f-3-06-billing-access-edit.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/1f25b6d5c24f-3-06-billing-access-edit.png",
+   "bytes": 15841,
+   "sha1": "1f25b6d5c24fbf3c7eeb4171485733c29c435159"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/3-06-billing-access-enable",
+   "image_path": "codeit-fs-15/images/40/4a992d784564-3-06-billing-access-enable.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/4a992d784564-3-06-billing-access-enable.png",
+   "bytes": 13295,
+   "sha1": "4a992d78456414fb05009b535572b4db72d5101a"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/3-06-billing-access-enabled",
+   "image_path": "codeit-fs-15/images/40/1c6c2f4d4f48-3-06-billing-access-enabled.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/1c6c2f4d4f48-3-06-billing-access-enabled.png",
+   "bytes": 15705,
+   "sha1": "1c6c2f4d4f4855d6e64d77bcb11b0dd708054fad"
   }
  ]
 }
