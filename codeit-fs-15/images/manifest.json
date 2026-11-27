@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39, 40",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1723,
+ "count": 1722,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11380,13 +11380,6 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/1b65d757f8f2-aws-vpc-4-06-04-internet-gateways.png",
    "bytes": 132400,
    "sha1": "1b65d757f8f2b3f9cabe88fda12104739e57a884"
-  },
-  {
-   "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-rds-6-06-01-databases",
-   "image_path": "codeit-fs-15/images/40/815ef39ba41a-aws-rds-6-06-01-databases.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/815ef39ba41a-aws-rds-6-06-01-databases.png",
-   "bytes": 87698,
-   "sha1": "815ef39ba41ac81cd7e784811198f852a28df530"
   },
   {
    "source_path": "capture://console.aws.amazon.com@2026-11-26/aws-s3-7-07-01-object-versions",
