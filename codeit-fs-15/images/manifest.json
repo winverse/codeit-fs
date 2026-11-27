@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39, 40",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1711,
+ "count": 1718,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11982,6 +11982,55 @@
    "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/583b8e8ed8a3-5-09-account-menu-masked.png",
    "bytes": 62555,
    "sha1": "583b8e8ed8a3a68557487b657ae04fef98b61761"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/5-03-instance-type-t3-micro",
+   "image_path": "codeit-fs-15/images/40/73748b6d0205-5-03-instance-type-t3-micro.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/73748b6d0205-5-03-instance-type-t3-micro.png",
+   "bytes": 96007,
+   "sha1": "73748b6d0205c67472121ed9d60f32e231fc143b"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/5-06-instance-state-menu",
+   "image_path": "codeit-fs-15/images/40/8ac1aabd4a11-5-06-instance-state-menu.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/8ac1aabd4a11-5-06-instance-state-menu.png",
+   "bytes": 72722,
+   "sha1": "8ac1aabd4a11b50c97fad0ef17ef0ca616a31d0d"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/5-06-console-search-vpc",
+   "image_path": "codeit-fs-15/images/40/fe13287c8525-5-06-console-search-vpc.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/fe13287c8525-5-06-console-search-vpc.png",
+   "bytes": 52093,
+   "sha1": "fe13287c8525f5ea5ef2cbc2199c030617ef3a2a"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/5-06-vpc-dashboard-security-groups",
+   "image_path": "codeit-fs-15/images/40/21cae0089f23-5-06-vpc-dashboard-security-groups.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/21cae0089f23-5-06-vpc-dashboard-security-groups.png",
+   "bytes": 103089,
+   "sha1": "21cae0089f238a461043250389b92d592424a01a"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/5-06-sg-inbound-ssh-source",
+   "image_path": "codeit-fs-15/images/40/7d7dc4ac95d2-5-06-sg-inbound-ssh-source.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/7d7dc4ac95d2-5-06-sg-inbound-ssh-source.png",
+   "bytes": 34098,
+   "sha1": "7d7dc4ac95d2a05f6772f1057f3b2e5862ffb3ca"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/5-06-sg-inbound-http-https",
+   "image_path": "codeit-fs-15/images/40/157d3f33b817-5-06-sg-inbound-http-https.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/157d3f33b817-5-06-sg-inbound-http-https.png",
+   "bytes": 30530,
+   "sha1": "157d3f33b8178fad5affa2722fd73ebfaae0bf2f"
+  },
+  {
+   "source_path": "capture://console.aws.amazon.com@2026-11-27/5-06-sg-tags-cancel",
+   "image_path": "codeit-fs-15/images/40/7b7d70734c42-5-06-sg-tags-cancel.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/7b7d70734c42-5-06-sg-tags-cancel.png",
+   "bytes": 32420,
+   "sha1": "7b7d70734c426d0b079ebcada12b79fb72c1e52c"
   }
  ]
 }
