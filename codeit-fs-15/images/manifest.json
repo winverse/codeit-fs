@@ -11509,31 +11509,31 @@
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-03a 온프레미스에서 서버를 늘릴 때.png",
-   "image_path": "codeit-fs-15/images/40/f3357884c0de-1-03a-onprem-scaling-servers.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f3357884c0de-1-03a-onprem-scaling-servers.png",
-   "bytes": 546367,
-   "sha1": "f3357884c0de6658ce35a7dca7c0f1eddf8d5baa"
+   "image_path": "codeit-fs-15/images/40/debc37c4d358-1-03a-onprem-scaling-servers.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/debc37c4d358-1-03a-onprem-scaling-servers.png",
+   "bytes": 235701,
+   "sha1": "debc37c4d35801a743049042d4e7c073fef8480e"
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-03b 온프레미스 구조.png",
-   "image_path": "codeit-fs-15/images/40/80aa66d3bf63-1-03b-onprem-structure.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/80aa66d3bf63-1-03b-onprem-structure.png",
-   "bytes": 426139,
-   "sha1": "80aa66d3bf635482fd22bc3c3affd89e37a1eae9"
+   "image_path": "codeit-fs-15/images/40/0590061dd38c-1-03b-onprem-structure.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/0590061dd38c-1-03b-onprem-structure.png",
+   "bytes": 168316,
+   "sha1": "0590061dd38c3060756939e3775b07a7476a84d5"
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-03c 클라우드 구조.png",
-   "image_path": "codeit-fs-15/images/40/1e5f639f53f0-1-03c-cloud-structure.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/1e5f639f53f0-1-03c-cloud-structure.png",
-   "bytes": 416718,
-   "sha1": "1e5f639f53f0189128f8730b5d8c51e96b04462a"
+   "image_path": "codeit-fs-15/images/40/f58a3837e54a-1-03c-cloud-structure.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f58a3837e54a-1-03c-cloud-structure.png",
+   "bytes": 193480,
+   "sha1": "f58a3837e54a561ba0dec27b6be7fca34dab97d0"
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-03d 하이브리드 클라우드.png",
-   "image_path": "codeit-fs-15/images/40/52df799d1315-1-03d-hybrid-cloud.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/52df799d1315-1-03d-hybrid-cloud.png",
-   "bytes": 517303,
-   "sha1": "52df799d1315ffc37f5e2ef4b4472affe3e2139b"
+   "image_path": "codeit-fs-15/images/40/f0eefbe4ab14-1-03d-hybrid-cloud.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f0eefbe4ab14-1-03d-hybrid-cloud.png",
+   "bytes": 185658,
+   "sha1": "f0eefbe4ab14ac0bdb914bdd2f4d51c9ac476b5f"
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/1-05a 여러 권역에 있는 리전.png",
