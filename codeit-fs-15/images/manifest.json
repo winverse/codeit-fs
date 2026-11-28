@@ -4,7 +4,7 @@
  "generated_at": "2026-10-06T08:33:18.000Z",
  "scope": "codeit-fs-15 course images 01-28, 30, 31, 32, 34, 36, 37, 38, 39, 40",
  "base_raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/",
- "count": 1722,
+ "count": 1725,
  "files": [
   {
    "source_path": "courses/01.프로그래밍 시작하기/01 프로그래밍 시작하기/스크린샷_2025-10-14_15.27.05.png",
@@ -11621,24 +11621,45 @@
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-04a 인터넷 게이트웨이와 기본 경로.png",
-   "image_path": "codeit-fs-15/images/40/f92d8e65689f-2-04a-internet-gateway-default-route.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/f92d8e65689f-2-04a-internet-gateway-default-route.png",
-   "bytes": 216312,
-   "sha1": "f92d8e65689fcfd766560f7cad7caba926fc9bcb"
+   "image_path": "codeit-fs-15/images/40/566dc911901a-2-04a-internet-gateway-default-route.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/566dc911901a-2-04a-internet-gateway-default-route.png",
+   "bytes": 217034,
+   "sha1": "566dc911901a611b6fe5d5bc86c7d5cf0f03cb99"
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-04b NAT 게이트웨이로 나가는 요청.png",
-   "image_path": "codeit-fs-15/images/40/0bfc611667c1-2-04b-nat-gateway-outbound.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/0bfc611667c1-2-04b-nat-gateway-outbound.png",
-   "bytes": 238851,
-   "sha1": "0bfc611667c19f2ba9d4edecc54a29e3ccf45a67"
+   "image_path": "codeit-fs-15/images/40/59a72a9b30b8-2-04b-nat-gateway-outbound.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/59a72a9b30b8-2-04b-nat-gateway-outbound.png",
+   "bytes": 216785,
+   "sha1": "59a72a9b30b82c1190ff44a37460c4b91c699547"
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-04c 서브넷과 라우팅 테이블 연결.png",
-   "image_path": "codeit-fs-15/images/40/1bbb821fb216-2-04c-subnet-route-table-association.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/1bbb821fb216-2-04c-subnet-route-table-association.png",
-   "bytes": 172694,
-   "sha1": "1bbb821fb2164dd51934dafe37bae25433189825"
+   "image_path": "codeit-fs-15/images/40/d3431211469b-2-04c-subnet-route-table-association.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/d3431211469b-2-04c-subnet-route-table-association.png",
+   "bytes": 187259,
+   "sha1": "d3431211469b28c1c83cfc79235ec241b77f5410"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-04d 인터넷 게이트웨이가 없는 VPC.png",
+   "image_path": "codeit-fs-15/images/40/15ed0fadc30f-2-04d-vpc-without-internet-gateway.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/15ed0fadc30f-2-04d-vpc-without-internet-gateway.png",
+   "bytes": 104224,
+   "sha1": "15ed0fadc30fc187fa44c2cea9018bd8e9de5f3f"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-04e NAT 게이트웨이 배치와 기본 경로.png",
+   "image_path": "codeit-fs-15/images/40/decc2da89a48-2-04e-nat-gateway-placement-default-route.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/decc2da89a48-2-04e-nat-gateway-placement-default-route.png",
+   "bytes": 247028,
+   "sha1": "decc2da89a48aac14f5a05a329b5433dd4425d20"
+  },
+  {
+   "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-04f 라우팅 테이블이 고르는 경로.png",
+   "image_path": "codeit-fs-15/images/40/29a348169a4e-2-04f-route-table-route-selection.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/29a348169a4e-2-04f-route-table-route-selection.png",
+   "bytes": 180570,
+   "sha1": "29a348169a4e01ae66aec165d88d0716f1eefb75"
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/2-05a 보안 그룹이 허용한 접속.png",
