@@ -11719,10 +11719,10 @@
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/6-04 EC2에서 프라이빗 RDS로 접속.png",
-   "image_path": "codeit-fs-15/images/40/c7313966520b-6-04-ec2-to-private-rds.png",
-   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/c7313966520b-6-04-ec2-to-private-rds.png",
-   "bytes": 196924,
-   "sha1": "c7313966520bfc0fb245970ba72675f2b82a05df"
+   "image_path": "codeit-fs-15/images/40/b986bc795937-6-04-ec2-to-private-rds.png",
+   "raw_url": "https://raw.githubusercontent.com/winverse/codeit-fs/main/codeit-fs-15/images/40/b986bc795937-6-04-ec2-to-private-rds.png",
+   "bytes": 204276,
+   "sha1": "b986bc7959376da4fadbc7165a27784ac2b47de9"
   },
   {
    "source_path": "courses/40.클라우드와 AWS 기본기/검증/2026-11-25/삽화/7-03 S3 스토리지 클래스 고르기.png",
